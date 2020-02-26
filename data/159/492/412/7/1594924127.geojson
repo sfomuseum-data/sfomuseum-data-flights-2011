@@ -1,0 +1,76 @@
+{
+  "id": 1594924127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2011-11-24T01:18:17",
+    "edtf:inception": "2011-11-24~",
+    "flysfo:airline": "DL",
+    "flysfo:date": "2011-11-24",
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL8969",
+    "flysfo:journey": "TCM-SFO",
+    "geom:area": 0,
+    "geom:bbox": "-122.496295,37.617990,-122.370943,47.134565",
+    "geom:latitude": 42.3762775,
+    "geom:longitude": -122.433619,
+    "iata:airline": "DL",
+    "icao:aircraft": "MD90",
+    "icao:airline": "DAL",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159291299,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527203,
+    "sfomuseum:flight_id": "20111124-A-DAL-8969",
+    "sfomuseum:flight_number": [
+      "DL8969", 
+      "DAL8969"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      1159396333, 
+      102527513, 
+      102191575, 
+      85688637, 
+      85922583, 
+      85633793, 
+      1594924127, 
+      102087579
+    ],
+    "wof:country": "US",
+    "wof:created": 1582752552,
+    "wof:geomhash": "7234ec6a531feff2a579809344df7e67",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396333,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1594924127,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1594924127,
+    "wof:lastmodified": 1582752552,
+    "wof:name": "DAL8969 (TCM-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2011",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.496295, 
+    37.61799, 
+    -122.370943, 
+    47.134565
+  ],
+  "geometry": {"coordinates":[[-122.496295,47.134565],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

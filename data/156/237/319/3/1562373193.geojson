@@ -1,0 +1,76 @@
+{
+  "id": 1562373193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2011-07-26T10:38:51",
+    "edtf:inception": "2011-07-26~",
+    "flysfo:airline": "RD",
+    "flysfo:date": "2011-07-26",
+    "flysfo:event": "A",
+    "flysfo:flight_number": "RD7206",
+    "flysfo:journey": "RFD-SFO",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-89.096803,42.197995",
+    "geom:latitude": 39.9079925,
+    "geom:longitude": -105.73387299999999,
+    "iata:airline": "RD",
+    "icao:aircraft": "B763",
+    "icao:airline": "RYN",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289965,
+    "sfomuseum:airline_id": 1159285173,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102528325,
+    "sfomuseum:flight_id": "20110726-A-RYN-7206",
+    "sfomuseum:flight_number": [
+      "RD7206", 
+      "RYN7206"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      85633793, 
+      102087579, 
+      102191575, 
+      1562373193, 
+      85922583, 
+      102527513, 
+      85688637, 
+      1159396333
+    ],
+    "wof:country": "US",
+    "wof:created": 1582749895,
+    "wof:geomhash": "0eac971f583e16e07489f379c09d27be",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396333,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1562373193,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1562373193,
+    "wof:lastmodified": 1582749895,
+    "wof:name": "RYN7206 (RFD-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2011",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    37.61799, 
+    -89.096803, 
+    42.197995
+  ],
+  "geometry": {"coordinates":[[-89.096803,42.197995],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
