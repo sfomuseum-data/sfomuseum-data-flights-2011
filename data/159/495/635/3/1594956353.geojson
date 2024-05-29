@@ -2,6 +2,10 @@
   "id": 1594956353,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-01",
+    "date:cessation_upper": "2011-12-31",
+    "date:inception_lower": "2011-12-17",
+    "date:inception_upper": "2011-12-17",
     "edtf:cessation": "2011-12-17~",
     "edtf:inception": "2011-12-17T11:43:25",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111217-D-SWA-297",
     "sfomuseum:flight_number": [
-      "WN297", 
+      "WN297",
       "SWA297"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1594956353, 
-      1159396333, 
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      102087579,
+      1159396333,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594956353,
-    "wof:lastmodified": 1582753110,
+    "wof:lastmodified": 1717013298,
     "wof:name": "SWA297 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1594975373,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-30",
+    "date:cessation_upper": "2011-12-30",
+    "date:inception_lower": "2011-12-01",
+    "date:inception_upper": "2011-12-31",
     "edtf:cessation": "2011-12-30T18:28:09",
     "edtf:inception": "2011-12-30~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20111230-A-UAL-560",
     "sfomuseum:flight_number": [
-      "UA560", 
+      "UA560",
       "UAL560"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      85633793, 
-      102087579, 
-      102527513, 
-      85922583, 
-      102191575, 
-      85688637, 
-      1594975373
+      1159396333,
+      85633793,
+      102087579,
+      102527513,
+      85922583,
+      102191575,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582753309,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594975373,
-    "wof:lastmodified": 1582753309,
+    "wof:lastmodified": 1717013298,
     "wof:name": "UAL560 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

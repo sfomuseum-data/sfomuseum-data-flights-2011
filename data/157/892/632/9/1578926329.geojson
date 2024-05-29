@@ -2,6 +2,10 @@
   "id": 1578926329,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-05-01",
+    "date:cessation_upper": "2011-05-31",
+    "date:inception_lower": "2011-05-25",
+    "date:inception_upper": "2011-05-25",
     "edtf:cessation": "2011-05-25~",
     "edtf:inception": "2011-05-25T09:13:11",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110525-D-UAL-472A",
     "sfomuseum:flight_number": [
-      "UA472A", 
+      "UA472A",
       "UAL472A"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1159396333, 
-      102191575, 
-      1578926329
+      85922583,
+      85688637,
+      102527513,
+      85633793,
+      102087579,
+      1159396333,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582748763,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578926329,
-    "wof:lastmodified": 1582748763,
+    "wof:lastmodified": 1717013322,
     "wof:name": "UAL472A (SFO-OGG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.437877, 
-    20.894952, 
-    -122.370943, 
+    -156.437877,
+    20.894952,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-156.437877,20.894952]],"type":"MultiPoint"}

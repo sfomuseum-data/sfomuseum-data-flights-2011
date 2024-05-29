@@ -2,6 +2,10 @@
   "id": 1578820749,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-03-08",
+    "date:cessation_upper": "2011-03-08",
+    "date:inception_lower": "2011-03-01",
+    "date:inception_upper": "2011-03-31",
     "edtf:cessation": "2011-03-08T09:13:40",
     "edtf:inception": "2011-03-08~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20110308-A-UAL-187",
     "sfomuseum:flight_number": [
-      "UA187", 
+      "UA187",
       "UAL187"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      85922583, 
-      85633793, 
-      102191575, 
-      85688637, 
-      1159396337, 
-      1578820749
+      102087579,
+      102527513,
+      85922583,
+      85633793,
+      102191575,
+      85688637,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582747258,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578820749,
-    "wof:lastmodified": 1582747258,
+    "wof:lastmodified": 1717013309,
     "wof:name": "UAL187 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}

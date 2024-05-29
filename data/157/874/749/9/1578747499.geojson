@@ -2,6 +2,10 @@
   "id": 1578747499,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-01-07",
+    "date:cessation_upper": "2011-01-07",
+    "date:inception_lower": "2011-01-01",
+    "date:inception_upper": "2011-01-31",
     "edtf:cessation": "2011-01-07T23:35:07",
     "edtf:inception": "2011-01-07~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530129,
     "sfomuseum:flight_id": "20110107-A-VRD-9525",
     "sfomuseum:flight_number": [
-      "VX9525", 
+      "VX9525",
       "VRD9525"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85922583, 
-      1578747499, 
-      85688637, 
-      102087579, 
-      1159396337, 
+      102527513,
+      85633793,
+      85922583,
+      85688637,
+      102087579,
+      1159396337,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578747499,
-    "wof:lastmodified": 1582746270,
+    "wof:lastmodified": 1717013308,
     "wof:name": "VRD9525 (SBD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.104408, 
-    -117.245887, 
+    -122.370943,
+    34.104408,
+    -117.245887,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.245887,34.104408],[-122.370943,37.61799]],"type":"MultiPoint"}

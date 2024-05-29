@@ -2,6 +2,10 @@
   "id": 1594972335,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-01",
+    "date:cessation_upper": "2011-12-31",
+    "date:inception_lower": "2011-12-28",
+    "date:inception_upper": "2011-12-28",
     "edtf:cessation": "2011-12-28~",
     "edtf:inception": "2011-12-28T16:30:59",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111228-D-UAL-378K",
     "sfomuseum:flight_number": [
-      "UA378K", 
+      "UA378K",
       "UAL378K"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1594972335, 
-      85922583, 
-      1159396333, 
-      85633793, 
-      102087579, 
-      102527513, 
+      102191575,
+      85922583,
+      1159396333,
+      85633793,
+      102087579,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594972335,
-    "wof:lastmodified": 1582753277,
+    "wof:lastmodified": 1717013296,
     "wof:name": "UAL378K (SFO-MCO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    28.431495, 
-    -81.307537, 
+    -122.370943,
+    28.431495,
+    -81.307537,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-81.307537,28.431495]],"type":"MultiPoint"}

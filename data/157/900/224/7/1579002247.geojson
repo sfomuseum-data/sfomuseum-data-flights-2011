@@ -2,6 +2,10 @@
   "id": 1579002247,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-01",
+    "date:cessation_upper": "2011-07-31",
+    "date:inception_lower": "2011-07-15",
+    "date:inception_upper": "2011-07-15",
     "edtf:cessation": "2011-07-15~",
     "edtf:inception": "2011-07-15T10:53:19",
     "flysfo:airline": "CX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110715-D-CPA-097",
     "sfomuseum:flight_number": [
-      "CX097", 
+      "CX097",
       "CPA097"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1159396333, 
-      85633793, 
-      1579002247
+      102527513,
+      102191575,
+      102087579,
+      85922583,
+      85688637,
+      1159396333,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582749687,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579002247,
-    "wof:lastmodified": 1582749687,
+    "wof:lastmodified": 1717013326,
     "wof:name": "CPA097 (SFO-ANC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -149.968401, 
-    37.61799, 
-    -122.370943, 
+    -149.968401,
+    37.61799,
+    -122.370943,
     61.173606
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-149.968401,61.173606]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1579017703,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-01",
+    "date:cessation_upper": "2011-07-31",
+    "date:inception_lower": "2011-07-25",
+    "date:inception_upper": "2011-07-25",
     "edtf:cessation": "2011-07-25~",
     "edtf:inception": "2011-07-25T16:19:47",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110725-D-AAL-532",
     "sfomuseum:flight_number": [
-      "AA532", 
+      "AA532",
       "AAL532"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85922583, 
-      102191575, 
-      1159396333, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1579017703
+      85688637,
+      85922583,
+      102191575,
+      1159396333,
+      102527513,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582749884,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579017703,
-    "wof:lastmodified": 1582749884,
+    "wof:lastmodified": 1717013331,
     "wof:name": "AAL532 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}

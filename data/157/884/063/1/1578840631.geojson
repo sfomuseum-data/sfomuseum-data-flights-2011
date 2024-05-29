@@ -2,6 +2,10 @@
   "id": 1578840631,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-03-23",
+    "date:cessation_upper": "2011-03-23",
+    "date:inception_lower": "2011-03-01",
+    "date:inception_upper": "2011-03-31",
     "edtf:cessation": "2011-03-23T07:46:20",
     "edtf:inception": "2011-03-23~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20110323-A-SWA-885",
     "sfomuseum:flight_number": [
-      "WN885", 
+      "WN885",
       "SWA885"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1578840631, 
-      85922583, 
-      102191575, 
-      85688637, 
-      102087579, 
-      1159396337, 
+      85633793,
+      85922583,
+      102191575,
+      85688637,
+      102087579,
+      1159396337,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578840631,
-    "wof:lastmodified": 1582747569,
+    "wof:lastmodified": 1717013310,
     "wof:name": "SWA885 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

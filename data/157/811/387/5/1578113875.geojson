@@ -2,6 +2,10 @@
   "id": 1578113875,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-15",
+    "date:cessation_upper": "2011-10-15",
+    "date:inception_lower": "2011-10-01",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-15T13:05:31",
     "edtf:inception": "2011-10-15~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20111015-A-SWA-562",
     "sfomuseum:flight_number": [
-      "WN562", 
+      "WN562",
       "SWA562"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1578113875, 
-      85922583, 
-      1159396333, 
-      102087579, 
-      102527513, 
-      85633793, 
-      102191575, 
+      85922583,
+      1159396333,
+      102087579,
+      102527513,
+      85633793,
+      102191575,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578113875,
-    "wof:lastmodified": 1582751541,
+    "wof:lastmodified": 1717013304,
     "wof:name": "SWA562 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

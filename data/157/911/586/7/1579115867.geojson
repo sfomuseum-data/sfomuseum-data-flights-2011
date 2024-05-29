@@ -2,6 +2,10 @@
   "id": 1579115867,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-09-29",
+    "date:cessation_upper": "2011-09-29",
+    "date:inception_lower": "2011-09-01",
+    "date:inception_upper": "2011-09-30",
     "edtf:cessation": "2011-09-29T15:09:40",
     "edtf:inception": "2011-09-29~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528541,
     "sfomuseum:flight_id": "20110929-A-AAL-1309",
     "sfomuseum:flight_number": [
-      "AA1309", 
+      "AA1309",
       "AAL1309"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159396333, 
-      102527513, 
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1579115867
+      102191575,
+      1159396333,
+      102527513,
+      85633793,
+      102087579,
+      85922583,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582751188,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579115867,
-    "wof:lastmodified": 1582751188,
+    "wof:lastmodified": 1717013340,
     "wof:name": "AAL1309 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}

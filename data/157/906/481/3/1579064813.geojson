@@ -2,6 +2,10 @@
   "id": 1579064813,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-08-01",
+    "date:cessation_upper": "2011-08-31",
+    "date:inception_lower": "2011-08-25",
+    "date:inception_upper": "2011-08-25",
     "edtf:cessation": "2011-08-25~",
     "edtf:inception": "2011-08-25T17:24:17",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110825-D-AAL-2578",
     "sfomuseum:flight_number": [
-      "AA2578", 
+      "AA2578",
       "AAL2578"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85633793, 
-      1579064813, 
-      85922583, 
+      85688637,
+      102527513,
+      102087579,
+      102191575,
+      85633793,
+      85922583,
       1159396333
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579064813,
-    "wof:lastmodified": 1582750496,
+    "wof:lastmodified": 1717013332,
     "wof:name": "AAL2578 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

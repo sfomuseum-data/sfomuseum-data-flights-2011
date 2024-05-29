@@ -2,6 +2,10 @@
   "id": 1594954815,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-01",
+    "date:cessation_upper": "2011-12-31",
+    "date:inception_lower": "2011-12-16",
+    "date:inception_upper": "2011-12-16",
     "edtf:cessation": "2011-12-16~",
     "edtf:inception": "2011-12-16T10:56:44",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111216-D-AAL-556",
     "sfomuseum:flight_number": [
-      "AA556", 
+      "AA556",
       "AAL556"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      85633793, 
-      85922583, 
-      102527513, 
-      102191575, 
-      1159396333, 
-      1594954815
+      85688637,
+      102087579,
+      85633793,
+      85922583,
+      102527513,
+      102191575,
+      1159396333
     ],
     "wof:country": "US",
     "wof:created": 1582753095,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594954815,
-    "wof:lastmodified": 1582753095,
+    "wof:lastmodified": 1717013297,
     "wof:name": "AAL556 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}

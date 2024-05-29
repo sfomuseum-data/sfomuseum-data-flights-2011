@@ -2,6 +2,10 @@
   "id": 1578743345,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-01-04",
+    "date:cessation_upper": "2011-01-04",
+    "date:inception_lower": "2011-01-01",
+    "date:inception_upper": "2011-01-31",
     "edtf:cessation": "2011-01-04T23:22:52",
     "edtf:inception": "2011-01-04~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20110104-A-SWA-578",
     "sfomuseum:flight_number": [
-      "WN578", 
+      "WN578",
       "SWA578"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1578743345, 
-      85922583, 
-      85688637, 
-      102087579, 
-      102527513, 
+      102191575,
+      85633793,
+      85922583,
+      85688637,
+      102087579,
+      102527513,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578743345,
-    "wof:lastmodified": 1582746210,
+    "wof:lastmodified": 1717013304,
     "wof:name": "SWA578 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1579061503,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-08-01",
+    "date:cessation_upper": "2011-08-31",
+    "date:inception_lower": "2011-08-23",
+    "date:inception_upper": "2011-08-23",
     "edtf:cessation": "2011-08-23~",
     "edtf:inception": "2011-08-23T14:00:08",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110823-D-AWE-651",
     "sfomuseum:flight_number": [
-      "HP651", 
+      "HP651",
       "AWE651"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159396333, 
-      102527513, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1579061503, 
+      102087579,
+      1159396333,
+      102527513,
+      85633793,
+      85922583,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579061503,
-    "wof:lastmodified": 1582750451,
+    "wof:lastmodified": 1717013329,
     "wof:name": "AWE651 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

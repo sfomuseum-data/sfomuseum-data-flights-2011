@@ -2,6 +2,10 @@
   "id": 1578992291,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-08",
+    "date:cessation_upper": "2011-07-08",
+    "date:inception_lower": "2011-07-01",
+    "date:inception_upper": "2011-07-31",
     "edtf:cessation": "2011-07-08T18:02:54",
     "edtf:inception": "2011-07-08~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20110708-A-SWA-1273",
     "sfomuseum:flight_number": [
-      "WN1273", 
+      "WN1273",
       "SWA1273"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1578992291, 
-      85633793, 
-      85688637, 
-      102087579, 
-      1159396333, 
-      102191575, 
+      102527513,
+      85633793,
+      85688637,
+      102087579,
+      1159396333,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578992291,
-    "wof:lastmodified": 1582749562,
+    "wof:lastmodified": 1717013324,
     "wof:name": "SWA1273 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

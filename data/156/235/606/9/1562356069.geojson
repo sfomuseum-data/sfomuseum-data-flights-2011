@@ -2,6 +2,10 @@
   "id": 1562356069,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-03-01",
+    "date:cessation_upper": "2011-03-31",
+    "date:inception_lower": "2011-03-28",
+    "date:inception_upper": "2011-03-28",
     "edtf:cessation": "2011-03-28~",
     "edtf:inception": "2011-03-28T11:18:06",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110328-D-SWA-1826",
     "sfomuseum:flight_number": [
-      "WN1826", 
+      "WN1826",
       "SWA1826"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85688637, 
-      1159396337, 
-      1562356069
+      102087579,
+      85922583,
+      102527513,
+      102191575,
+      85633793,
+      85688637,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582747780,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562356069,
-    "wof:lastmodified": 1582747780,
+    "wof:lastmodified": 1717013304,
     "wof:name": "SWA1826 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

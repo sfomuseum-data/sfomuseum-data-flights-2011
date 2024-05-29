@@ -2,6 +2,10 @@
   "id": 1579081661,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-09-01",
+    "date:cessation_upper": "2011-09-30",
+    "date:inception_lower": "2011-09-06",
+    "date:inception_upper": "2011-09-06",
     "edtf:cessation": "2011-09-06~",
     "edtf:inception": "2011-09-06T11:15:28",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110906-D-AWE-1950",
     "sfomuseum:flight_number": [
-      "HP1950", 
+      "HP1950",
       "AWE1950"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1579081661, 
-      85633793, 
-      1159396333, 
-      102527513, 
-      85688637, 
-      102087579, 
-      85922583, 
+      85633793,
+      1159396333,
+      102527513,
+      85688637,
+      102087579,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579081661,
-    "wof:lastmodified": 1582750707,
+    "wof:lastmodified": 1717013330,
     "wof:name": "AWE1950 (SFO-CLT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.942777,35.220744]],"type":"MultiPoint"}

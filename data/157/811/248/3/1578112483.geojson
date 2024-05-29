@@ -2,6 +2,10 @@
   "id": 1578112483,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-06",
+    "date:cessation_upper": "2011-10-06",
+    "date:inception_lower": "2011-10-01",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-06T02:01:34",
     "edtf:inception": "2011-10-06~",
     "flysfo:airline": "KZ",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20111006-A-NCA-147",
     "sfomuseum:flight_number": [
-      "KZ147", 
+      "KZ147",
       "NCA147"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1578112483, 
-      1159396333, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102087579, 
+      102191575,
+      1159396333,
+      85922583,
+      85688637,
+      85633793,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578112483,
-    "wof:lastmodified": 1582751322,
+    "wof:lastmodified": 1717013303,
     "wof:name": "NCA147 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

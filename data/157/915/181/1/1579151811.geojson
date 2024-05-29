@@ -2,6 +2,10 @@
   "id": 1579151811,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-24",
+    "date:cessation_upper": "2011-10-24",
+    "date:inception_lower": "2011-10-01",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-24T09:44:09",
     "edtf:inception": "2011-10-24~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102521851,
     "sfomuseum:flight_id": "20111024-A-JBU-1403",
     "sfomuseum:flight_number": [
-      "B61403", 
+      "B61403",
       "JBU1403"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      85633793, 
-      1579151811, 
-      102191575, 
-      102087579, 
-      85922583, 
+      102527513,
+      85688637,
+      85633793,
+      102191575,
+      102087579,
+      85922583,
       1159396333
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579151811,
-    "wof:lastmodified": 1582751749,
+    "wof:lastmodified": 1717013339,
     "wof:name": "JBU1403 (AUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    30.206175, 
-    -97.643029, 
+    -122.370943,
+    30.206175,
+    -97.643029,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.643029,30.206175],[-122.370943,37.61799]],"type":"MultiPoint"}

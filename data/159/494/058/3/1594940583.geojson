@@ -2,6 +2,10 @@
   "id": 1594940583,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-06",
+    "date:cessation_upper": "2011-12-06",
+    "date:inception_lower": "2011-12-01",
+    "date:inception_upper": "2011-12-31",
     "edtf:cessation": "2011-12-06T07:40:05",
     "edtf:inception": "2011-12-06~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20111206-A-UAL-9985",
     "sfomuseum:flight_number": [
-      "UA9985", 
+      "UA9985",
       "UAL9985"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      102191575, 
-      1159396333, 
-      85922583, 
-      85633793, 
-      1594940583, 
+      102087579,
+      102527513,
+      102191575,
+      1159396333,
+      85922583,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594940583,
-    "wof:lastmodified": 1582752940,
+    "wof:lastmodified": 1717013295,
     "wof:name": "UAL9985 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

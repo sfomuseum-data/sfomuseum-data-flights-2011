@@ -2,6 +2,10 @@
   "id": 1578856627,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-04-04",
+    "date:cessation_upper": "2011-04-04",
+    "date:inception_lower": "2011-04-01",
+    "date:inception_upper": "2011-04-30",
     "edtf:cessation": "2011-04-04T09:17:39",
     "edtf:inception": "2011-04-04~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20110404-A-ASA-220",
     "sfomuseum:flight_number": [
-      "AS220", 
+      "AS220",
       "ASA220"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102527513, 
-      1578856627, 
-      1159396337, 
+      102087579,
+      85922583,
+      85688637,
+      102191575,
+      102527513,
+      1159396337,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578856627,
-    "wof:lastmodified": 1582747972,
+    "wof:lastmodified": 1717013315,
     "wof:name": "ASA220 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

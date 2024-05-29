@@ -2,6 +2,10 @@
   "id": 1579119235,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-01",
+    "date:cessation_upper": "2011-10-01",
+    "date:inception_lower": "2011-10-01",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-01T21:18:30",
     "edtf:inception": "2011-10-01~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20111001-A-SWA-766",
     "sfomuseum:flight_number": [
-      "WN766", 
+      "WN766",
       "SWA766"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159396333, 
-      85633793, 
-      85688637, 
-      102087579, 
-      1579119235, 
-      102527513, 
+      85922583,
+      1159396333,
+      85633793,
+      85688637,
+      102087579,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579119235,
-    "wof:lastmodified": 1582751236,
+    "wof:lastmodified": 1717013343,
     "wof:name": "SWA766 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

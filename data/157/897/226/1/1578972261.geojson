@@ -2,6 +2,10 @@
   "id": 1578972261,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-06-01",
+    "date:cessation_upper": "2011-06-30",
+    "date:inception_lower": "2011-06-25",
+    "date:inception_upper": "2011-06-25",
     "edtf:cessation": "2011-06-25~",
     "edtf:inception": "2011-06-25T12:03:14",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110625-D-COA-449",
     "sfomuseum:flight_number": [
-      "CO449", 
+      "CO449",
       "COA449"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      102191575, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102087579, 
-      1578972261, 
+      1159396333,
+      102191575,
+      102527513,
+      85922583,
+      85688637,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578972261,
-    "wof:lastmodified": 1582749321,
+    "wof:lastmodified": 1717013321,
     "wof:name": "COA449 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

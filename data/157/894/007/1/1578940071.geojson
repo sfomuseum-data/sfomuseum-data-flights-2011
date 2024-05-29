@@ -2,6 +2,10 @@
   "id": 1578940071,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-06-03",
+    "date:cessation_upper": "2011-06-03",
+    "date:inception_lower": "2011-06-01",
+    "date:inception_upper": "2011-06-30",
     "edtf:cessation": "2011-06-03T20:40:19",
     "edtf:inception": "2011-06-03~",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20110603-A-AWE-469",
     "sfomuseum:flight_number": [
-      "HP469", 
+      "HP469",
       "AWE469"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      1578940071, 
-      85922583, 
-      1159396333, 
-      102527513, 
-      102191575, 
+      85688637,
+      85633793,
+      85922583,
+      1159396333,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578940071,
-    "wof:lastmodified": 1582748933,
+    "wof:lastmodified": 1717013318,
     "wof:name": "AWE469 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

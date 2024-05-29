@@ -2,6 +2,10 @@
   "id": 1578860045,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-04-06",
+    "date:cessation_upper": "2011-04-06",
+    "date:inception_lower": "2011-04-01",
+    "date:inception_upper": "2011-04-30",
     "edtf:cessation": "2011-04-06T19:32:29",
     "edtf:inception": "2011-04-06~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20110406-A-UAL-519",
     "sfomuseum:flight_number": [
-      "UA519", 
+      "UA519",
       "UAL519"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      85633793, 
-      85922583, 
-      102527513, 
-      1578860045
+      85688637,
+      1159396337,
+      102191575,
+      102087579,
+      85633793,
+      85922583,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582748012,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578860045,
-    "wof:lastmodified": 1582748012,
+    "wof:lastmodified": 1717013311,
     "wof:name": "UAL519 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

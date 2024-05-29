@@ -2,6 +2,10 @@
   "id": 1578988945,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-06",
+    "date:cessation_upper": "2011-07-06",
+    "date:inception_lower": "2011-07-01",
+    "date:inception_upper": "2011-07-31",
     "edtf:cessation": "2011-07-06T15:12:36",
     "edtf:inception": "2011-07-06~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20110706-A-UAL-722",
     "sfomuseum:flight_number": [
-      "UA722", 
+      "UA722",
       "UAL722"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1159396333, 
-      102191575, 
-      1578988945
+      85922583,
+      85688637,
+      102527513,
+      85633793,
+      102087579,
+      1159396333,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582749520,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578988945,
-    "wof:lastmodified": 1582749520,
+    "wof:lastmodified": 1717013328,
     "wof:name": "UAL722 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

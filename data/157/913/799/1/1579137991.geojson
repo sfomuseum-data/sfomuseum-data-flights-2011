@@ -2,6 +2,10 @@
   "id": 1579137991,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-14",
+    "date:cessation_upper": "2011-10-14",
+    "date:inception_lower": "2011-10-01",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-14T17:07:43",
     "edtf:inception": "2011-10-14~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20111014-A-SWA-3137",
     "sfomuseum:flight_number": [
-      "WN3137", 
+      "WN3137",
       "SWA3137"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      1579137991, 
-      102527513, 
-      102087579, 
-      85922583, 
-      1159396333, 
+      85688637,
+      102191575,
+      102527513,
+      102087579,
+      85922583,
+      1159396333,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579137991,
-    "wof:lastmodified": 1582751522,
+    "wof:lastmodified": 1717013343,
     "wof:name": "SWA3137 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

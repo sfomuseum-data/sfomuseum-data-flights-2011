@@ -2,6 +2,10 @@
   "id": 1578916641,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-05-01",
+    "date:cessation_upper": "2011-05-31",
+    "date:inception_lower": "2011-05-18",
+    "date:inception_upper": "2011-05-18",
     "edtf:cessation": "2011-05-18~",
     "edtf:inception": "2011-05-18T10:31:12",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110518-D-SWA-609",
     "sfomuseum:flight_number": [
-      "WN609", 
+      "WN609",
       "SWA609"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      85688637, 
-      1159396333, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1578916641
+      102191575,
+      85922583,
+      85688637,
+      1159396333,
+      102527513,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582748654,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578916641,
-    "wof:lastmodified": 1582748654,
+    "wof:lastmodified": 1717013321,
     "wof:name": "SWA609 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

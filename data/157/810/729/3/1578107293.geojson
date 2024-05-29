@@ -2,6 +2,10 @@
   "id": 1578107293,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-08-01",
+    "date:cessation_upper": "2011-08-31",
+    "date:inception_lower": "2011-08-31",
+    "date:inception_upper": "2011-08-31",
     "edtf:cessation": "2011-08-31~",
     "edtf:inception": "2011-08-31T15:33:48",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110831-D-DAL-1954",
     "sfomuseum:flight_number": [
-      "DL1954", 
+      "DL1954",
       "DAL1954"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1578107293, 
-      85688637, 
-      102527513, 
-      1159396333, 
-      102191575, 
+      102087579,
+      85922583,
+      85688637,
+      102527513,
+      1159396333,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578107293,
-    "wof:lastmodified": 1582750604,
+    "wof:lastmodified": 1717013301,
     "wof:name": "DAL1954 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

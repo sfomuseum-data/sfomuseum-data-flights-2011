@@ -2,6 +2,10 @@
   "id": 1562371131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-01",
+    "date:cessation_upper": "2011-07-31",
+    "date:inception_lower": "2011-07-12",
+    "date:inception_upper": "2011-07-12",
     "edtf:cessation": "2011-07-12~",
     "edtf:inception": "2011-07-12T16:57:51",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110712-D-UAL-577T",
     "sfomuseum:flight_number": [
-      "UA577T", 
+      "UA577T",
       "UAL577T"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1562371131, 
-      85688637, 
-      1159396333, 
-      102191575, 
-      85633793, 
-      102087579, 
+      102527513,
+      85688637,
+      1159396333,
+      102191575,
+      85633793,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562371131,
-    "wof:lastmodified": 1582749635,
+    "wof:lastmodified": 1717013301,
     "wof:name": "UAL577T (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]],"type":"MultiPoint"}

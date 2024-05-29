@@ -2,6 +2,10 @@
   "id": 1578808543,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-01",
+    "date:cessation_upper": "2011-02-28",
+    "date:inception_lower": "2011-02-26",
+    "date:inception_upper": "2011-02-26",
     "edtf:cessation": "2011-02-26~",
     "edtf:inception": "2011-02-26T07:28:46",
     "flysfo:airline": "FX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110226-D-FDX-2545",
     "sfomuseum:flight_number": [
-      "FX2545", 
+      "FX2545",
       "FDX2545"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102087579, 
-      85688637, 
-      102527513, 
-      1578808543, 
-      1159396337, 
-      102191575, 
+      85922583,
+      102087579,
+      85688637,
+      102527513,
+      1159396337,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578808543,
-    "wof:lastmodified": 1582747136,
+    "wof:lastmodified": 1717013314,
     "wof:name": "FDX2545 (SFO-FAT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.768728, 
-    -119.721272, 
+    -122.370943,
+    36.768728,
+    -119.721272,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-119.721272,36.768728]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1594960237,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-01",
+    "date:cessation_upper": "2011-12-31",
+    "date:inception_lower": "2011-12-20",
+    "date:inception_upper": "2011-12-20",
     "edtf:cessation": "2011-12-20~",
     "edtf:inception": "2011-12-20T07:42:02",
     "flysfo:airline": "FX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111220-D-FDX-690",
     "sfomuseum:flight_number": [
-      "FX690", 
+      "FX690",
       "FDX690"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159396333, 
-      1594960237
+      85688637,
+      102087579,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      1159396333
     ],
     "wof:country": "US",
     "wof:created": 1582753150,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594960237,
-    "wof:lastmodified": 1582753150,
+    "wof:lastmodified": 1717013340,
     "wof:name": "FDX690 (SFO-MEM)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.04889, 
-    -89.981998, 
+    -122.370943,
+    35.04889,
+    -89.981998,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-89.981998,35.04889]],"type":"MultiPoint"}

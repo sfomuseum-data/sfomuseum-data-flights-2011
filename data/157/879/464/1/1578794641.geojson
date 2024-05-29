@@ -2,6 +2,10 @@
   "id": 1578794641,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-15",
+    "date:cessation_upper": "2011-02-15",
+    "date:inception_lower": "2011-02-01",
+    "date:inception_upper": "2011-02-28",
     "edtf:cessation": "2011-02-15T09:24:58",
     "edtf:inception": "2011-02-15~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20110215-A-UAL-885",
     "sfomuseum:flight_number": [
-      "UA885", 
+      "UA885",
       "UAL885"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1159396337, 
-      1578794641
+      102087579,
+      85688637,
+      85922583,
+      102527513,
+      102191575,
+      85633793,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582746995,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578794641,
-    "wof:lastmodified": 1582746995,
+    "wof:lastmodified": 1717013309,
     "wof:name": "UAL885 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

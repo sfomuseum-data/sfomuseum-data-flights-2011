@@ -2,6 +2,10 @@
   "id": 1579008671,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-19",
+    "date:cessation_upper": "2011-07-19",
+    "date:inception_lower": "2011-07-01",
+    "date:inception_upper": "2011-07-31",
     "edtf:cessation": "2011-07-19T15:41:35",
     "edtf:inception": "2011-07-19~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20110719-A-SWA-331",
     "sfomuseum:flight_number": [
-      "WN331", 
+      "WN331",
       "SWA331"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1579008671, 
-      1159396333, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102087579, 
+      85633793,
+      1159396333,
+      102527513,
+      85922583,
+      85688637,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579008671,
-    "wof:lastmodified": 1582749770,
+    "wof:lastmodified": 1717013332,
     "wof:name": "SWA331 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

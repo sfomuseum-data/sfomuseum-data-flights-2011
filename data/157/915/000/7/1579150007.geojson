@@ -2,6 +2,10 @@
   "id": 1579150007,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-22",
+    "date:cessation_upper": "2011-10-22",
+    "date:inception_lower": "2011-10-01",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-22T22:42:55",
     "edtf:inception": "2011-10-22~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534097,
     "sfomuseum:flight_id": "20111022-A-COA-1712",
     "sfomuseum:flight_number": [
-      "CO1712", 
+      "CO1712",
       "COA1712"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1579150007, 
-      102527513, 
-      85688637, 
-      102191575, 
-      1159396333, 
-      85633793, 
+      102087579,
+      102527513,
+      85688637,
+      102191575,
+      1159396333,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579150007,
-    "wof:lastmodified": 1582751719,
+    "wof:lastmodified": 1717013337,
     "wof:name": "COA1712 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-95.338444,29.977186],[-122.370943,37.61799]],"type":"MultiPoint"}

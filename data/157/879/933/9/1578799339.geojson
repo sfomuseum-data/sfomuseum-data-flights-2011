@@ -2,6 +2,10 @@
   "id": 1578799339,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-18",
+    "date:cessation_upper": "2011-02-18",
+    "date:inception_lower": "2011-02-01",
+    "date:inception_upper": "2011-02-28",
     "edtf:cessation": "2011-02-18T20:50:41",
     "edtf:inception": "2011-02-18~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533051,
     "sfomuseum:flight_id": "20110218-A-COA-702",
     "sfomuseum:flight_number": [
-      "CO702", 
+      "CO702",
       "COA702"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396337, 
-      85633793, 
-      102527513, 
-      1578799339, 
-      102191575, 
-      102087579, 
+      85688637,
+      1159396337,
+      85633793,
+      102527513,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578799339,
-    "wof:lastmodified": 1582747042,
+    "wof:lastmodified": 1717013313,
     "wof:name": "COA702 (MCI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -94.716176, 
+    -122.370943,
+    37.61799,
+    -94.716176,
     39.304107
   ],
   "geometry": {"coordinates":[[-94.716176,39.304107],[-122.370943,37.61799]],"type":"MultiPoint"}

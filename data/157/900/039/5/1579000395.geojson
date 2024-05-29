@@ -2,6 +2,10 @@
   "id": 1579000395,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-01",
+    "date:cessation_upper": "2011-07-31",
+    "date:inception_lower": "2011-07-14",
+    "date:inception_upper": "2011-07-14",
     "edtf:cessation": "2011-07-14~",
     "edtf:inception": "2011-07-14T06:59:42",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110714-D-SWA-295",
     "sfomuseum:flight_number": [
-      "WN295", 
+      "WN295",
       "SWA295"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396333, 
-      85922583, 
-      102527513, 
-      1579000395, 
-      85633793, 
-      102087579, 
+      85688637,
+      1159396333,
+      85922583,
+      102527513,
+      85633793,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579000395,
-    "wof:lastmodified": 1582749665,
+    "wof:lastmodified": 1717013324,
     "wof:name": "SWA295 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

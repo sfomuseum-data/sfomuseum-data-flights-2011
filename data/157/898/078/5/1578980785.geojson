@@ -2,6 +2,10 @@
   "id": 1578980785,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-01",
+    "date:cessation_upper": "2011-07-31",
+    "date:inception_lower": "2011-07-01",
+    "date:inception_upper": "2011-07-01",
     "edtf:cessation": "2011-07-01~",
     "edtf:inception": "2011-07-01T01:00:02",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110701-D-DAL-806",
     "sfomuseum:flight_number": [
-      "DL806", 
+      "DL806",
       "DAL806"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      1159396333, 
-      85633793, 
-      102087579, 
-      102527513, 
-      1578980785, 
+      85688637,
+      102191575,
+      1159396333,
+      85633793,
+      102087579,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578980785,
-    "wof:lastmodified": 1582749420,
+    "wof:lastmodified": 1717013321,
     "wof:name": "DAL806 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

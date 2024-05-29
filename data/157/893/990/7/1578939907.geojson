@@ -2,6 +2,10 @@
   "id": 1578939907,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-06-03",
+    "date:cessation_upper": "2011-06-03",
+    "date:inception_lower": "2011-06-01",
+    "date:inception_upper": "2011-06-30",
     "edtf:cessation": "2011-06-03T18:53:17",
     "edtf:inception": "2011-06-03~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102536441,
     "sfomuseum:flight_id": "20110603-A-VRD-709",
     "sfomuseum:flight_number": [
-      "VX709", 
+      "VX709",
       "VRD709"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      85633793, 
-      102191575, 
-      85922583, 
-      1159396333, 
-      102087579, 
-      1578939907
+      85688637,
+      102527513,
+      85633793,
+      102191575,
+      85922583,
+      1159396333,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582748931,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578939907,
-    "wof:lastmodified": 1582748931,
+    "wof:lastmodified": 1717013326,
     "wof:name": "VRD709 (SJD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}

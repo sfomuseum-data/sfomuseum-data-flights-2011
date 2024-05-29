@@ -2,6 +2,10 @@
   "id": 1579069405,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-08-28",
+    "date:cessation_upper": "2011-08-28",
+    "date:inception_lower": "2011-08-01",
+    "date:inception_upper": "2011-08-31",
     "edtf:cessation": "2011-08-28T22:37:50",
     "edtf:inception": "2011-08-28~",
     "flysfo:airline": "FL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532047,
     "sfomuseum:flight_id": "20110828-A-TRS-1190",
     "sfomuseum:flight_number": [
-      "FL1190", 
+      "FL1190",
       "TRS1190"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159396333, 
-      102527513, 
-      102191575, 
-      85688637, 
-      1579069405, 
-      85922583, 
+      102087579,
+      1159396333,
+      102527513,
+      102191575,
+      85688637,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579069405,
-    "wof:lastmodified": 1582750555,
+    "wof:lastmodified": 1717013338,
     "wof:name": "TRS1190 (BWI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -76.67107, 
+    -122.370943,
+    37.61799,
+    -76.67107,
     39.181319
   ],
   "geometry": {"coordinates":[[-76.67107,39.181319],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578904189,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-05-01",
+    "date:cessation_upper": "2011-05-31",
+    "date:inception_lower": "2011-05-09",
+    "date:inception_upper": "2011-05-09",
     "edtf:cessation": "2011-05-09~",
     "edtf:inception": "2011-05-09T12:18:25",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110509-D-DAL-1782",
     "sfomuseum:flight_number": [
-      "DL1782", 
+      "DL1782",
       "DAL1782"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102527513, 
-      85922583, 
-      1159396333, 
-      85633793, 
-      85688637, 
-      102087579, 
-      1578904189
+      102191575,
+      102527513,
+      85922583,
+      1159396333,
+      85633793,
+      85688637,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582748517,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578904189,
-    "wof:lastmodified": 1582748517,
+    "wof:lastmodified": 1717013319,
     "wof:name": "DAL1782 (SFO-CVG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -84.657144, 
+    -122.370943,
+    37.61799,
+    -84.657144,
     39.054422
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.657144,39.054422]],"type":"MultiPoint"}

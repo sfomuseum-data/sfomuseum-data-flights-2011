@@ -2,6 +2,10 @@
   "id": 1579040979,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-08-09",
+    "date:cessation_upper": "2011-08-09",
+    "date:inception_lower": "2011-08-01",
+    "date:inception_upper": "2011-08-31",
     "edtf:cessation": "2011-08-09T21:50:39",
     "edtf:inception": "2011-08-09~",
     "flysfo:airline": "CO",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20110809-A-COA-1493",
     "sfomuseum:flight_number": [
-      "CO1493", 
+      "CO1493",
       "COA1493"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      102527513, 
-      85688637, 
-      85922583, 
-      85633793, 
-      102191575, 
-      102087579, 
-      1579040979
+      1159396333,
+      102527513,
+      85688637,
+      85922583,
+      85633793,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582750171,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579040979,
-    "wof:lastmodified": 1582750171,
+    "wof:lastmodified": 1717013328,
     "wof:name": "COA1493 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

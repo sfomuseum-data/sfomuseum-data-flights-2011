@@ -2,6 +2,10 @@
   "id": 1578869579,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-04-13",
+    "date:cessation_upper": "2011-04-13",
+    "date:inception_lower": "2011-04-01",
+    "date:inception_upper": "2011-04-30",
     "edtf:cessation": "2011-04-13T21:48:40",
     "edtf:inception": "2011-04-13~",
     "flysfo:airline": "CO",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20110413-A-COA-1933",
     "sfomuseum:flight_number": [
-      "CO1933", 
+      "CO1933",
       "COA1933"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159396337, 
-      102087579, 
-      85633793, 
-      102527513, 
-      102191575, 
-      1578869579
+      85922583,
+      85688637,
+      1159396337,
+      102087579,
+      85633793,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582748119,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578869579,
-    "wof:lastmodified": 1582748119,
+    "wof:lastmodified": 1717013319,
     "wof:name": "COA1933 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

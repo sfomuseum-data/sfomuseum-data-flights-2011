@@ -2,6 +2,10 @@
   "id": 1579025479,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-30",
+    "date:cessation_upper": "2011-07-30",
+    "date:inception_lower": "2011-07-01",
+    "date:inception_upper": "2011-07-31",
     "edtf:cessation": "2011-07-30T18:13:07",
     "edtf:inception": "2011-07-30~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528541,
     "sfomuseum:flight_id": "20110730-A-AAL-449",
     "sfomuseum:flight_number": [
-      "AA449", 
+      "AA449",
       "AAL449"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159396333, 
-      85688637, 
-      102087579, 
-      102527513, 
-      85633793, 
-      102191575, 
-      1579025479
+      85922583,
+      1159396333,
+      85688637,
+      102087579,
+      102527513,
+      85633793,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582749977,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579025479,
-    "wof:lastmodified": 1582749977,
+    "wof:lastmodified": 1717013331,
     "wof:name": "AAL449 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1579105799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-09-22",
+    "date:cessation_upper": "2011-09-22",
+    "date:inception_lower": "2011-09-01",
+    "date:inception_upper": "2011-09-30",
     "edtf:cessation": "2011-09-22T18:27:06",
     "edtf:inception": "2011-09-22~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20110922-A-VRD-941",
     "sfomuseum:flight_number": [
-      "VX941", 
+      "VX941",
       "VRD941"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      102191575, 
-      85922583, 
-      102087579, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1579105799
+      1159396333,
+      102191575,
+      85922583,
+      102087579,
+      85688637,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582751038,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579105799,
-    "wof:lastmodified": 1582751038,
+    "wof:lastmodified": 1717013339,
     "wof:name": "VRD941 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

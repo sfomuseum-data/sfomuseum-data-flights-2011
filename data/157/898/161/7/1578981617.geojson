@@ -2,6 +2,10 @@
   "id": 1578981617,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-01",
+    "date:cessation_upper": "2011-07-01",
+    "date:inception_lower": "2011-07-01",
+    "date:inception_upper": "2011-07-31",
     "edtf:cessation": "2011-07-01T14:45:11",
     "edtf:inception": "2011-07-01~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20110701-A-DAL-2105",
     "sfomuseum:flight_number": [
-      "DL2105", 
+      "DL2105",
       "DAL2105"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102087579, 
-      85922583, 
-      1159396333, 
-      102191575, 
-      85633793, 
-      1578981617
+      85688637,
+      102527513,
+      102087579,
+      85922583,
+      1159396333,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582749431,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578981617,
-    "wof:lastmodified": 1582749431,
+    "wof:lastmodified": 1717013321,
     "wof:name": "DAL2105 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

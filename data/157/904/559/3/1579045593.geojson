@@ -2,6 +2,10 @@
   "id": 1579045593,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-08-12",
+    "date:cessation_upper": "2011-08-12",
+    "date:inception_lower": "2011-08-01",
+    "date:inception_upper": "2011-08-31",
     "edtf:cessation": "2011-08-12T21:02:43",
     "edtf:inception": "2011-08-12~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20110812-A-COA-1860",
     "sfomuseum:flight_number": [
-      "CO1860", 
+      "CO1860",
       "COA1860"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1579045593, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85688637, 
-      102527513, 
-      85922583, 
+      102191575,
+      85633793,
+      102087579,
+      85688637,
+      102527513,
+      85922583,
       1159396333
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579045593,
-    "wof:lastmodified": 1582750234,
+    "wof:lastmodified": 1717013332,
     "wof:name": "COA1860 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

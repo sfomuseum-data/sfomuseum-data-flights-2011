@@ -2,6 +2,10 @@
   "id": 1594925981,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-01",
+    "date:cessation_upper": "2011-11-30",
+    "date:inception_lower": "2011-11-25",
+    "date:inception_upper": "2011-11-25",
     "edtf:cessation": "2011-11-25~",
     "edtf:inception": "2011-11-25T16:59:20",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111125-D-DAL-1015",
     "sfomuseum:flight_number": [
-      "DL1015", 
+      "DL1015",
       "DAL1015"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      85688637, 
-      1159396333, 
-      102527513, 
-      102087579, 
-      1594925981, 
+      85633793,
+      85922583,
+      85688637,
+      1159396333,
+      102527513,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594925981,
-    "wof:lastmodified": 1582752596,
+    "wof:lastmodified": 1717013298,
     "wof:name": "DAL1015 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}

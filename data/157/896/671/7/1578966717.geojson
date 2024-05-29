@@ -2,6 +2,10 @@
   "id": 1578966717,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-06-21",
+    "date:cessation_upper": "2011-06-21",
+    "date:inception_lower": "2011-06-01",
+    "date:inception_upper": "2011-06-30",
     "edtf:cessation": "2011-06-21T19:44:38",
     "edtf:inception": "2011-06-21~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531979,
     "sfomuseum:flight_id": "20110621-A-COA-1699",
     "sfomuseum:flight_number": [
-      "CO1699", 
+      "CO1699",
       "COA1699"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102087579, 
-      102191575, 
-      85688637, 
-      1159396333, 
-      102527513, 
-      1578966717, 
+      85922583,
+      102087579,
+      102191575,
+      85688637,
+      1159396333,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578966717,
-    "wof:lastmodified": 1582749256,
+    "wof:lastmodified": 1717013325,
     "wof:name": "COA1699 (ANC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -149.968401, 
-    37.61799, 
-    -122.370943, 
+    -149.968401,
+    37.61799,
+    -122.370943,
     61.173606
   ],
   "geometry": {"coordinates":[[-149.968401,61.173606],[-122.370943,37.61799]],"type":"MultiPoint"}

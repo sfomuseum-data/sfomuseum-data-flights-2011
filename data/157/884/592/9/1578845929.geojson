@@ -2,6 +2,10 @@
   "id": 1578845929,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-03-01",
+    "date:cessation_upper": "2011-03-31",
+    "date:inception_lower": "2011-03-27",
+    "date:inception_upper": "2011-03-27",
     "edtf:cessation": "2011-03-27~",
     "edtf:inception": "2011-03-27T07:52:10",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110327-D-SWA-1839",
     "sfomuseum:flight_number": [
-      "WN1839", 
+      "WN1839",
       "SWA1839"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1578845929, 
-      1159396337, 
-      102191575, 
-      102527513, 
-      85922583, 
-      102087579, 
+      85633793,
+      1159396337,
+      102191575,
+      102527513,
+      85922583,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578845929,
-    "wof:lastmodified": 1582747741,
+    "wof:lastmodified": 1717013315,
     "wof:name": "SWA1839 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

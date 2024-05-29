@@ -2,6 +2,10 @@
   "id": 1594928699,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-27",
+    "date:cessation_upper": "2011-11-27",
+    "date:inception_lower": "2011-11-01",
+    "date:inception_upper": "2011-11-30",
     "edtf:cessation": "2011-11-27T16:36:09",
     "edtf:inception": "2011-11-27~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20111127-A-VRD-837",
     "sfomuseum:flight_number": [
-      "VX837", 
+      "VX837",
       "VRD837"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      85922583, 
-      1159396333, 
-      102191575, 
-      102527513, 
-      1594928699
+      85633793,
+      102087579,
+      85688637,
+      85922583,
+      1159396333,
+      102191575,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582752663,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594928699,
-    "wof:lastmodified": 1582752663,
+    "wof:lastmodified": 1717013300,
     "wof:name": "VRD837 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

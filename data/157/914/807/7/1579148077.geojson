@@ -2,6 +2,10 @@
   "id": 1579148077,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-01",
+    "date:cessation_upper": "2011-10-31",
+    "date:inception_lower": "2011-10-21",
+    "date:inception_upper": "2011-10-21",
     "edtf:cessation": "2011-10-21~",
     "edtf:inception": "2011-10-21T14:28:15",
     "flysfo:airline": "SQ",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111021-D-SIA-15",
     "sfomuseum:flight_number": [
-      "SQ15", 
+      "SQ15",
       "SIA15"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      102191575, 
-      85922583, 
-      1159396333, 
-      102527513, 
-      85688637, 
-      1579148077
+      85633793,
+      102087579,
+      102191575,
+      85922583,
+      1159396333,
+      102527513,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582751687,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579148077,
-    "wof:lastmodified": 1582751687,
+    "wof:lastmodified": 1717013343,
     "wof:name": "SIA15 (SFO-ICN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.453966, 
-    126.661632, 
+    -122.370943,
+    37.453966,
+    126.661632,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[126.661632,37.453966]],"type":"MultiPoint"}

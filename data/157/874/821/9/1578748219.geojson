@@ -2,6 +2,10 @@
   "id": 1578748219,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-01-01",
+    "date:cessation_upper": "2011-01-31",
+    "date:inception_lower": "2011-01-08",
+    "date:inception_upper": "2011-01-08",
     "edtf:cessation": "2011-01-08~",
     "edtf:inception": "2011-01-08T15:08:23",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110108-D-SWA-2837",
     "sfomuseum:flight_number": [
-      "WN2837", 
+      "WN2837",
       "SWA2837"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1578748219, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      85633793, 
-      85688637, 
-      102087579, 
+      85922583,
+      1159396337,
+      102191575,
+      85633793,
+      85688637,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578748219,
-    "wof:lastmodified": 1582746279,
+    "wof:lastmodified": 1717013308,
     "wof:name": "SWA2837 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

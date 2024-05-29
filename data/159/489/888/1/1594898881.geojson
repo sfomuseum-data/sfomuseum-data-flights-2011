@@ -2,6 +2,10 @@
   "id": 1594898881,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-06",
+    "date:cessation_upper": "2011-11-06",
+    "date:inception_lower": "2011-11-01",
+    "date:inception_upper": "2011-11-30",
     "edtf:cessation": "2011-11-06T10:13:25",
     "edtf:inception": "2011-11-06~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20111106-A-UAL-458",
     "sfomuseum:flight_number": [
-      "UA458", 
+      "UA458",
       "UAL458"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102087579, 
-      102527513, 
-      1594898881
+      1159396333,
+      85633793,
+      85922583,
+      85688637,
+      102191575,
+      102087579,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582752037,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594898881,
-    "wof:lastmodified": 1582752037,
+    "wof:lastmodified": 1717013301,
     "wof:name": "UAL458 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}

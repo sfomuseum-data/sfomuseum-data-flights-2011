@@ -2,6 +2,10 @@
   "id": 1579061815,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-08-01",
+    "date:cessation_upper": "2011-08-31",
+    "date:inception_lower": "2011-08-23",
+    "date:inception_upper": "2011-08-23",
     "edtf:cessation": "2011-08-23~",
     "edtf:inception": "2011-08-23T18:13:56",
     "flysfo:airline": "AB",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110823-D-BER-7393",
     "sfomuseum:flight_number": [
-      "AB7393", 
+      "AB7393",
       "BER7393"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      102191575, 
-      85688637, 
-      1579061815, 
-      85922583, 
-      102527513, 
-      102087579, 
+      1159396333,
+      102191575,
+      85688637,
+      85922583,
+      102527513,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579061815,
-    "wof:lastmodified": 1582750455,
+    "wof:lastmodified": 1717013330,
     "wof:name": "BER7393 (SFO-DUS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    6.763227, 
+    -122.370943,
+    37.61799,
+    6.763227,
     51.260024
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[6.763227,51.260024]],"type":"MultiPoint"}

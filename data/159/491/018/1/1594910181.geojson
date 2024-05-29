@@ -2,6 +2,10 @@
   "id": 1594910181,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-14",
+    "date:cessation_upper": "2011-11-14",
+    "date:inception_lower": "2011-11-01",
+    "date:inception_upper": "2011-11-30",
     "edtf:cessation": "2011-11-14T10:38:12",
     "edtf:inception": "2011-11-14~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20111114-A-ASA-224",
     "sfomuseum:flight_number": [
-      "AS224", 
+      "AS224",
       "ASA224"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      102527513, 
-      1594910181, 
-      85688637, 
-      85633793, 
-      85922583, 
-      102191575, 
+      1159396333,
+      102527513,
+      85688637,
+      85633793,
+      85922583,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594910181,
-    "wof:lastmodified": 1582752228,
+    "wof:lastmodified": 1717013294,
     "wof:name": "ASA224 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

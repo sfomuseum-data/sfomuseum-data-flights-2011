@@ -2,6 +2,10 @@
   "id": 1579094823,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-09-01",
+    "date:cessation_upper": "2011-09-30",
+    "date:inception_lower": "2011-09-15",
+    "date:inception_upper": "2011-09-15",
     "edtf:cessation": "2011-09-15~",
     "edtf:inception": "2011-09-15T10:34:57",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110915-D-SWA-3852",
     "sfomuseum:flight_number": [
-      "WN3852", 
+      "WN3852",
       "SWA3852"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      85688637, 
-      102527513, 
-      1579094823, 
-      85922583, 
-      102087579, 
+      85633793,
+      102191575,
+      85688637,
+      102527513,
+      85922583,
+      102087579,
       1159396333
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579094823,
-    "wof:lastmodified": 1582750871,
+    "wof:lastmodified": 1717013336,
     "wof:name": "SWA3852 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

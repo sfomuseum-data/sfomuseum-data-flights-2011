@@ -2,6 +2,10 @@
   "id": 1579020087,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-27",
+    "date:cessation_upper": "2011-07-27",
+    "date:inception_lower": "2011-07-01",
+    "date:inception_upper": "2011-07-31",
     "edtf:cessation": "2011-07-27T08:55:03",
     "edtf:inception": "2011-07-27~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20110727-A-UAL-363",
     "sfomuseum:flight_number": [
-      "UA363", 
+      "UA363",
       "UAL363"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      85633793, 
-      102527513, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1579020087
+      1159396333,
+      85633793,
+      102527513,
+      102087579,
+      85922583,
+      85688637,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582749911,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579020087,
-    "wof:lastmodified": 1582749911,
+    "wof:lastmodified": 1717013326,
     "wof:name": "UAL363 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

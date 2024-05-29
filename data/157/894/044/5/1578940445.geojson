@@ -2,6 +2,10 @@
   "id": 1578940445,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-06-01",
+    "date:cessation_upper": "2011-06-30",
+    "date:inception_lower": "2011-06-04",
+    "date:inception_upper": "2011-06-04",
     "edtf:cessation": "2011-06-04~",
     "edtf:inception": "2011-06-04T07:46:21",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110604-D-SWA-1341",
     "sfomuseum:flight_number": [
-      "WN1341", 
+      "WN1341",
       "SWA1341"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      85633793, 
-      102527513, 
-      102191575, 
-      85688637, 
-      85922583, 
-      102087579, 
-      1578940445
+      1159396333,
+      85633793,
+      102527513,
+      102191575,
+      85688637,
+      85922583,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582748937,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578940445,
-    "wof:lastmodified": 1582748937,
+    "wof:lastmodified": 1717013318,
     "wof:name": "SWA1341 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

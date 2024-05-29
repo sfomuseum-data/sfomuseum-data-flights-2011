@@ -2,6 +2,10 @@
   "id": 1594941195,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-06",
+    "date:cessation_upper": "2011-12-06",
+    "date:inception_lower": "2011-12-01",
+    "date:inception_upper": "2011-12-31",
     "edtf:cessation": "2011-12-06T14:11:24",
     "edtf:inception": "2011-12-06~",
     "flysfo:airline": "BA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102556703,
     "sfomuseum:flight_id": "20111206-A-BAW-11M",
     "sfomuseum:flight_number": [
-      "BA11M", 
+      "BA11M",
       "BAW11M"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      85688637, 
-      1159396333, 
-      102191575, 
-      1594941195, 
-      102087579, 
+      85633793,
+      85922583,
+      85688637,
+      1159396333,
+      102191575,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594941195,
-    "wof:lastmodified": 1582752949,
+    "wof:lastmodified": 1717013295,
     "wof:name": "BAW11M (LHR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -0.450443, 
+    -122.370943,
+    37.61799,
+    -0.450443,
     51.470087
   ],
   "geometry": {"coordinates":[[-0.450443,51.470087],[-122.370943,37.61799]],"type":"MultiPoint"}

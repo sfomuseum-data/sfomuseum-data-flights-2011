@@ -2,6 +2,10 @@
   "id": 1578800139,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-01",
+    "date:cessation_upper": "2011-02-28",
+    "date:inception_lower": "2011-02-19",
+    "date:inception_upper": "2011-02-19",
     "edtf:cessation": "2011-02-19~",
     "edtf:inception": "2011-02-19T13:09:44",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110219-D-SWA-3384",
     "sfomuseum:flight_number": [
-      "WN3384", 
+      "WN3384",
       "SWA3384"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      85688637, 
-      85633793, 
-      1159396337, 
-      102087579, 
-      1578800139, 
+      102191575,
+      85922583,
+      85688637,
+      85633793,
+      1159396337,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578800139,
-    "wof:lastmodified": 1582747050,
+    "wof:lastmodified": 1717013307,
     "wof:name": "SWA3384 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}

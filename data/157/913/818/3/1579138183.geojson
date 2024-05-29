@@ -2,6 +2,10 @@
   "id": 1579138183,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-01",
+    "date:cessation_upper": "2011-10-31",
+    "date:inception_lower": "2011-10-14",
+    "date:inception_upper": "2011-10-14",
     "edtf:cessation": "2011-10-14~",
     "edtf:inception": "2011-10-14T19:41:42",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111014-D-SWA-3676",
     "sfomuseum:flight_number": [
-      "WN3676", 
+      "WN3676",
       "SWA3676"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159396333, 
-      102191575, 
-      102527513, 
-      85633793, 
-      1579138183, 
+      85922583,
+      85688637,
+      1159396333,
+      102191575,
+      102527513,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579138183,
-    "wof:lastmodified": 1582751525,
+    "wof:lastmodified": 1717013343,
     "wof:name": "SWA3676 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

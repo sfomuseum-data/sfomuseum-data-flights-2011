@@ -2,6 +2,10 @@
   "id": 1578116179,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-31",
+    "date:cessation_upper": "2011-10-31",
+    "date:inception_lower": "2011-10-01",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-31T13:31:35",
     "edtf:inception": "2011-10-31~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530801,
     "sfomuseum:flight_id": "20111031-A-UAL-9956",
     "sfomuseum:flight_number": [
-      "UA9956", 
+      "UA9956",
       "UAL9956"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1578116179, 
-      102527513, 
-      85922583, 
-      1159396333, 
-      102191575, 
-      102087579, 
+      85633793,
+      102527513,
+      85922583,
+      1159396333,
+      102191575,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578116179,
-    "wof:lastmodified": 1582751917,
+    "wof:lastmodified": 1717013306,
     "wof:name": "UAL9956 (VCV-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.581613, 
-    -117.374502, 
+    -122.370943,
+    34.581613,
+    -117.374502,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.374502,34.581613],[-122.370943,37.61799]],"type":"MultiPoint"}

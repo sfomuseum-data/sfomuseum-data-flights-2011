@@ -2,6 +2,10 @@
   "id": 1594968431,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-01",
+    "date:cessation_upper": "2011-12-31",
+    "date:inception_lower": "2011-12-26",
+    "date:inception_upper": "2011-12-26",
     "edtf:cessation": "2011-12-26~",
     "edtf:inception": "2011-12-26T00:11:40",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111226-D-UAL-1122",
     "sfomuseum:flight_number": [
-      "UA1122", 
+      "UA1122",
       "UAL1122"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      1594968431, 
-      85922583, 
-      85688637, 
-      1159396333, 
-      102191575, 
+      102527513,
+      85633793,
+      85922583,
+      85688637,
+      1159396333,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594968431,
-    "wof:lastmodified": 1582753235,
+    "wof:lastmodified": 1717013299,
     "wof:name": "UAL1122 (SFO-GDL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.525627, 
-    -103.301974, 
+    -122.370943,
+    20.525627,
+    -103.301974,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-103.301974,20.525627]],"type":"MultiPoint"}

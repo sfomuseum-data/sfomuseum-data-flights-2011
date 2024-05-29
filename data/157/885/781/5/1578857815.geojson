@@ -2,6 +2,10 @@
   "id": 1578857815,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-04-05",
+    "date:cessation_upper": "2011-04-05",
+    "date:inception_lower": "2011-04-01",
+    "date:inception_upper": "2011-04-30",
     "edtf:cessation": "2011-04-05T07:07:54",
     "edtf:inception": "2011-04-05~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20110405-A-SWA-1839",
     "sfomuseum:flight_number": [
-      "WN1839", 
+      "WN1839",
       "SWA1839"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1578857815, 
-      85922583, 
-      85688637, 
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578857815,
-    "wof:lastmodified": 1582747987,
+    "wof:lastmodified": 1717013316,
     "wof:name": "SWA1839 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1579035693,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-08-06",
+    "date:cessation_upper": "2011-08-06",
+    "date:inception_lower": "2011-08-01",
+    "date:inception_upper": "2011-08-31",
     "edtf:cessation": "2011-08-06T11:59:08",
     "edtf:inception": "2011-08-06~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20110806-A-SWA-3805",
     "sfomuseum:flight_number": [
-      "WN3805", 
+      "WN3805",
       "SWA3805"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      102527513, 
-      85922583, 
-      102191575, 
-      85688637, 
-      1159396333, 
-      1579035693
+      85633793,
+      102087579,
+      102527513,
+      85922583,
+      102191575,
+      85688637,
+      1159396333
     ],
     "wof:country": "US",
     "wof:created": 1582750098,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579035693,
-    "wof:lastmodified": 1582750098,
+    "wof:lastmodified": 1717013332,
     "wof:name": "SWA3805 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

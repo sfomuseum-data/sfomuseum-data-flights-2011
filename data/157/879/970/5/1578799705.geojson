@@ -2,6 +2,10 @@
   "id": 1578799705,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-01",
+    "date:cessation_upper": "2011-02-28",
+    "date:inception_lower": "2011-02-19",
+    "date:inception_upper": "2011-02-19",
     "edtf:cessation": "2011-02-19~",
     "edtf:inception": "2011-02-19T07:01:46",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110219-D-SWA-3904",
     "sfomuseum:flight_number": [
-      "WN3904", 
+      "WN3904",
       "SWA3904"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1578799705, 
-      85633793, 
-      1159396337, 
-      85688637, 
-      102527513, 
+      102191575,
+      102087579,
+      85633793,
+      1159396337,
+      85688637,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578799705,
-    "wof:lastmodified": 1582747046,
+    "wof:lastmodified": 1717013313,
     "wof:name": "SWA3904 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

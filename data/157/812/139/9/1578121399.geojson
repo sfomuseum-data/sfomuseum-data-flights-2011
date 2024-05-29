@@ -2,6 +2,10 @@
   "id": 1578121399,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-07",
+    "date:cessation_upper": "2011-12-07",
+    "date:inception_lower": "2011-12-01",
+    "date:inception_upper": "2011-12-31",
     "edtf:cessation": "2011-12-07T21:03:02",
     "edtf:inception": "2011-12-07~",
     "flysfo:airline": "CX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102541737,
     "sfomuseum:flight_id": "20111207-A-CPA-872",
     "sfomuseum:flight_number": [
-      "CX872", 
+      "CX872",
       "CPA872"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1578121399, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1159396333, 
+      85688637,
+      85922583,
+      102527513,
+      102191575,
+      85633793,
+      1159396333,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578121399,
-    "wof:lastmodified": 1582752972,
+    "wof:lastmodified": 1717013302,
     "wof:name": "CPA872 (HKG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    22.307471, 
-    113.927436, 
+    -122.370943,
+    22.307471,
+    113.927436,
     37.61799
   ],
   "geometry": {"coordinates":[[113.927436,22.307471],[-122.370943,37.61799]],"type":"MultiPoint"}

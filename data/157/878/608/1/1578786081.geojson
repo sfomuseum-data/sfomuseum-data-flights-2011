@@ -2,6 +2,10 @@
   "id": 1578786081,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-01",
+    "date:cessation_upper": "2011-02-28",
+    "date:inception_lower": "2011-02-08",
+    "date:inception_upper": "2011-02-08",
     "edtf:cessation": "2011-02-08~",
     "edtf:inception": "2011-02-08T12:49:41",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110208-D-UAL-821",
     "sfomuseum:flight_number": [
-      "UA821", 
+      "UA821",
       "UAL821"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102087579, 
-      85633793, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      1578786081
+      85688637,
+      102527513,
+      102087579,
+      85633793,
+      85922583,
+      1159396337,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582746907,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578786081,
-    "wof:lastmodified": 1582746907,
+    "wof:lastmodified": 1717013309,
     "wof:name": "UAL821 (SFO-MEX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    19.431302, 
-    -99.080804, 
+    -122.370943,
+    19.431302,
+    -99.080804,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-99.080804,19.431302]],"type":"MultiPoint"}

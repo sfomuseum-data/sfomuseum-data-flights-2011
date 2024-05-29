@@ -2,6 +2,10 @@
   "id": 1594900733,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-01",
+    "date:cessation_upper": "2011-11-30",
+    "date:inception_lower": "2011-11-07",
+    "date:inception_upper": "2011-11-07",
     "edtf:cessation": "2011-11-07~",
     "edtf:inception": "2011-11-07T14:41:12",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111107-D-UAL-321",
     "sfomuseum:flight_number": [
-      "UA321", 
+      "UA321",
       "UAL321"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1594900733, 
-      1159396333, 
-      85922583, 
-      102191575, 
-      102527513, 
-      85633793, 
+      102087579,
+      1159396333,
+      85922583,
+      102191575,
+      102527513,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594900733,
-    "wof:lastmodified": 1582752064,
+    "wof:lastmodified": 1717013294,
     "wof:name": "UAL321 (SFO-OGG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.437877, 
-    20.894952, 
-    -122.370943, 
+    -156.437877,
+    20.894952,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-156.437877,20.894952]],"type":"MultiPoint"}

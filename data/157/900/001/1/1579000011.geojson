@@ -2,6 +2,10 @@
   "id": 1579000011,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-13",
+    "date:cessation_upper": "2011-07-13",
+    "date:inception_lower": "2011-07-01",
+    "date:inception_upper": "2011-07-31",
     "edtf:cessation": "2011-07-13T21:58:30",
     "edtf:inception": "2011-07-13~",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20110713-A-AWE-787",
     "sfomuseum:flight_number": [
-      "HP787", 
+      "HP787",
       "AWE787"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      85688637, 
-      85633793, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1579000011, 
+      1159396333,
+      85688637,
+      85633793,
+      85922583,
+      102191575,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579000011,
-    "wof:lastmodified": 1582749659,
+    "wof:lastmodified": 1717013324,
     "wof:name": "AWE787 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

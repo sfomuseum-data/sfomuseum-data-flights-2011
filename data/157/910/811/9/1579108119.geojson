@@ -2,6 +2,10 @@
   "id": 1579108119,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-09-01",
+    "date:cessation_upper": "2011-09-30",
+    "date:inception_lower": "2011-09-24",
+    "date:inception_upper": "2011-09-24",
     "edtf:cessation": "2011-09-24~",
     "edtf:inception": "2011-09-24T09:38:06",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110924-D-COA-1641",
     "sfomuseum:flight_number": [
-      "CO1641", 
+      "CO1641",
       "COA1641"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1579108119, 
-      1159396333, 
-      85688637, 
+      85633793,
+      85922583,
+      102191575,
+      102087579,
+      1159396333,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579108119,
-    "wof:lastmodified": 1582751073,
+    "wof:lastmodified": 1717013341,
     "wof:name": "COA1641 (SFO-ITO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -155.03913, 
-    19.715896, 
-    -122.370943, 
+    -155.03913,
+    19.715896,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-155.03913,19.715896]],"type":"MultiPoint"}

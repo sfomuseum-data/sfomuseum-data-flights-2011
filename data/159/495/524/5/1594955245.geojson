@@ -2,6 +2,10 @@
   "id": 1594955245,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-16",
+    "date:cessation_upper": "2011-12-16",
+    "date:inception_lower": "2011-12-01",
+    "date:inception_upper": "2011-12-31",
     "edtf:cessation": "2011-12-16T15:58:47",
     "edtf:inception": "2011-12-16~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20111216-A-AAL-1665",
     "sfomuseum:flight_number": [
-      "AA1665", 
+      "AA1665",
       "AAL1665"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      85922583, 
-      1594955245, 
-      102087579, 
-      102191575, 
-      1159396333, 
+      85688637,
+      85633793,
+      85922583,
+      102087579,
+      102191575,
+      1159396333,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594955245,
-    "wof:lastmodified": 1582753099,
+    "wof:lastmodified": 1717013297,
     "wof:name": "AAL1665 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

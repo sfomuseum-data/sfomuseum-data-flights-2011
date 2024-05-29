@@ -2,6 +2,10 @@
   "id": 1579147323,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-21",
+    "date:cessation_upper": "2011-10-21",
+    "date:inception_lower": "2011-10-01",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-21T06:11:33",
     "edtf:inception": "2011-10-21~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20111021-A-DAL-1152",
     "sfomuseum:flight_number": [
-      "DL1152", 
+      "DL1152",
       "DAL1152"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396333, 
-      85633793, 
-      102087579, 
-      85922583, 
-      102191575, 
-      102527513, 
-      1579147323
+      85688637,
+      1159396333,
+      85633793,
+      102087579,
+      85922583,
+      102191575,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582751674,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579147323,
-    "wof:lastmodified": 1582751674,
+    "wof:lastmodified": 1717013343,
     "wof:name": "DAL1152 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

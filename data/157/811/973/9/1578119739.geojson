@@ -2,6 +2,10 @@
   "id": 1578119739,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-26",
+    "date:cessation_upper": "2011-11-26",
+    "date:inception_lower": "2011-11-01",
+    "date:inception_upper": "2011-11-30",
     "edtf:cessation": "2011-11-26T03:40:56",
     "edtf:inception": "2011-11-26~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531041,
     "sfomuseum:flight_id": "20111126-A-JBU-9809",
     "sfomuseum:flight_number": [
-      "B69809", 
+      "B69809",
       "JBU9809"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      85688637, 
-      102087579, 
-      85633793, 
-      1578119739, 
-      85922583, 
-      102527513, 
+      1159396333,
+      85688637,
+      102087579,
+      85633793,
+      85922583,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578119739,
-    "wof:lastmodified": 1582752608,
+    "wof:lastmodified": 1717013309,
     "wof:name": "JBU9809 (OAK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.212464, 
+    -122.370943,
+    37.61799,
+    -122.212464,
     37.72131
   ],
   "geometry": {"coordinates":[[-122.212464,37.72131],[-122.370943,37.61799]],"type":"MultiPoint"}

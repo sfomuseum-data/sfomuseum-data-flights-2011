@@ -2,6 +2,10 @@
   "id": 1578773455,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-01-29",
+    "date:cessation_upper": "2011-01-29",
+    "date:inception_lower": "2011-01-01",
+    "date:inception_upper": "2011-01-31",
     "edtf:cessation": "2011-01-29T05:24:51",
     "edtf:inception": "2011-01-29~",
     "flysfo:airline": "FX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527185,
     "sfomuseum:flight_id": "20110129-A-FDX-2545",
     "sfomuseum:flight_number": [
-      "FX2545", 
+      "FX2545",
       "FDX2545"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      1578773455, 
-      85922583, 
-      1159396337, 
-      85688637, 
-      85633793, 
+      102527513,
+      102191575,
+      85922583,
+      1159396337,
+      85688637,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578773455,
-    "wof:lastmodified": 1582746716,
+    "wof:lastmodified": 1717013306,
     "wof:name": "FDX2545 (MEM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.04889, 
-    -89.981998, 
+    -122.370943,
+    35.04889,
+    -89.981998,
     37.61799
   ],
   "geometry": {"coordinates":[[-89.981998,35.04889],[-122.370943,37.61799]],"type":"MultiPoint"}

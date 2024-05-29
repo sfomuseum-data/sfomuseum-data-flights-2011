@@ -2,6 +2,10 @@
   "id": 1578811301,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-28",
+    "date:cessation_upper": "2011-02-28",
+    "date:inception_lower": "2011-02-01",
+    "date:inception_upper": "2011-02-28",
     "edtf:cessation": "2011-02-28T15:24:04",
     "edtf:inception": "2011-02-28~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20110228-A-UAL-573",
     "sfomuseum:flight_number": [
-      "UA573", 
+      "UA573",
       "UAL573"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102087579, 
-      85633793, 
-      1159396337, 
-      102191575, 
-      85922583, 
-      1578811301
+      85688637,
+      102527513,
+      102087579,
+      85633793,
+      1159396337,
+      102191575,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582747163,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578811301,
-    "wof:lastmodified": 1582747163,
+    "wof:lastmodified": 1717013308,
     "wof:name": "UAL573 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

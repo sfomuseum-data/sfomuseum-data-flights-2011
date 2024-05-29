@@ -2,6 +2,10 @@
   "id": 1578113283,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-11",
+    "date:cessation_upper": "2011-10-11",
+    "date:inception_lower": "2011-10-01",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-11T14:15:21",
     "edtf:inception": "2011-10-11~",
     "flysfo:airline": "WS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102554947,
     "sfomuseum:flight_id": "20111011-A-WJA-1562",
     "sfomuseum:flight_number": [
-      "WS1562", 
+      "WS1562",
       "WJA1562"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159396333, 
-      85688637, 
-      85922583, 
-      102087579, 
-      102191575, 
-      85633793, 
-      1578113283
+      102527513,
+      1159396333,
+      85688637,
+      85922583,
+      102087579,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582751448,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578113283,
-    "wof:lastmodified": 1582751448,
+    "wof:lastmodified": 1717013303,
     "wof:name": "WJA1562 (YYC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -114.02092, 
+    -122.370943,
+    37.61799,
+    -114.02092,
     51.119526
   ],
   "geometry": {"coordinates":[[-114.02092,51.119526],[-122.370943,37.61799]],"type":"MultiPoint"}

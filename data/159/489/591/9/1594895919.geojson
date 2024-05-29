@@ -2,6 +2,10 @@
   "id": 1594895919,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-01",
+    "date:cessation_upper": "2011-11-30",
+    "date:inception_lower": "2011-11-04",
+    "date:inception_upper": "2011-11-04",
     "edtf:cessation": "2011-11-04~",
     "edtf:inception": "2011-11-04T04:29:39",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111104-D-JBU-9782",
     "sfomuseum:flight_number": [
-      "B69782", 
+      "B69782",
       "JBU9782"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      85922583, 
-      85688637, 
-      1159396333, 
-      1594895919, 
-      102191575, 
+      102087579,
+      102527513,
+      85922583,
+      85688637,
+      1159396333,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594895919,
-    "wof:lastmodified": 1582751992,
+    "wof:lastmodified": 1717013299,
     "wof:name": "JBU9782 (SFO-ELP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    31.797173, 
-    -106.392398, 
+    -122.370943,
+    31.797173,
+    -106.392398,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-106.392398,31.797173]],"type":"MultiPoint"}

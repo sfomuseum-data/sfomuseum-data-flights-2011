@@ -2,6 +2,10 @@
   "id": 1594925807,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-25",
+    "date:cessation_upper": "2011-11-25",
+    "date:inception_lower": "2011-11-01",
+    "date:inception_upper": "2011-11-30",
     "edtf:cessation": "2011-11-25T14:30:57",
     "edtf:inception": "2011-11-25~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20111125-A-SWA-2445",
     "sfomuseum:flight_number": [
-      "WN2445", 
+      "WN2445",
       "SWA2445"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      1594925807, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85688637, 
-      102087579, 
+      1159396333,
+      102527513,
+      102191575,
+      85633793,
+      85688637,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594925807,
-    "wof:lastmodified": 1582752592,
+    "wof:lastmodified": 1717013298,
     "wof:name": "SWA2445 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578117709,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-11",
+    "date:cessation_upper": "2011-11-11",
+    "date:inception_lower": "2011-11-01",
+    "date:inception_upper": "2011-11-30",
     "edtf:cessation": "2011-11-11T11:01:31",
     "edtf:inception": "2011-11-11~",
     "flysfo:airline": "HA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531041,
     "sfomuseum:flight_id": "20111111-A-HAL-47",
     "sfomuseum:flight_number": [
-      "HA47", 
+      "HA47",
       "HAL47"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      85633793, 
-      1578117709, 
-      102191575, 
-      102087579, 
-      102527513, 
-      85922583, 
+      1159396333,
+      85633793,
+      102191575,
+      102087579,
+      102527513,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578117709,
-    "wof:lastmodified": 1582752154,
+    "wof:lastmodified": 1717013307,
     "wof:name": "HAL47 (OAK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.212464, 
+    -122.370943,
+    37.61799,
+    -122.212464,
     37.72131
   ],
   "geometry": {"coordinates":[[-122.212464,37.72131],[-122.370943,37.61799]],"type":"MultiPoint"}

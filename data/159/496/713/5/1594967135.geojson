@@ -2,6 +2,10 @@
   "id": 1594967135,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-24",
+    "date:cessation_upper": "2011-12-24",
+    "date:inception_lower": "2011-12-01",
+    "date:inception_upper": "2011-12-31",
     "edtf:cessation": "2011-12-24T21:17:55",
     "edtf:inception": "2011-12-24~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527529,
     "sfomuseum:flight_id": "20111224-A-UAL-9984",
     "sfomuseum:flight_number": [
-      "UA9984", 
+      "UA9984",
       "UAL9984"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1594967135, 
-      1159396333, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
+      102087579,
+      1159396333,
+      85922583,
+      102527513,
+      102191575,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594967135,
-    "wof:lastmodified": 1582753221,
+    "wof:lastmodified": 1717013299,
     "wof:name": "UAL9984 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.363728, 
-    -121.928755, 
+    -122.370943,
+    37.363728,
+    -121.928755,
     37.61799
   ],
   "geometry": {"coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]],"type":"MultiPoint"}

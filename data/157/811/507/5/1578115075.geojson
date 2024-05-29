@@ -2,6 +2,10 @@
   "id": 1578115075,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-23",
+    "date:cessation_upper": "2011-10-23",
+    "date:inception_lower": "2011-10-01",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-23T19:05:28",
     "edtf:inception": "2011-10-23~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534019,
     "sfomuseum:flight_id": "20111023-A-COA-1153",
     "sfomuseum:flight_number": [
-      "CO1153", 
+      "CO1153",
       "COA1153"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1578115075, 
-      102087579, 
-      85688637, 
-      1159396333, 
-      102527513, 
-      85922583, 
+      102191575,
+      102087579,
+      85688637,
+      1159396333,
+      102527513,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578115075,
-    "wof:lastmodified": 1582751737,
+    "wof:lastmodified": 1717013305,
     "wof:name": "COA1153 (CLE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -81.835629, 
+    -122.370943,
+    37.61799,
+    -81.835629,
     41.406844
   ],
   "geometry": {"coordinates":[[-81.835629,41.406844],[-122.370943,37.61799]],"type":"MultiPoint"}

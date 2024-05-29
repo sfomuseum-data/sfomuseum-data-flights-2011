@@ -2,6 +2,10 @@
   "id": 1594901159,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-07",
+    "date:cessation_upper": "2011-11-07",
+    "date:inception_lower": "2011-11-01",
+    "date:inception_upper": "2011-11-30",
     "edtf:cessation": "2011-11-07T20:03:53",
     "edtf:inception": "2011-11-07~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20111107-A-ASA-388",
     "sfomuseum:flight_number": [
-      "AS388", 
+      "AS388",
       "ASA388"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102527513, 
-      85922583, 
-      1159396333, 
-      85633793, 
-      102087579, 
-      1594901159, 
+      102191575,
+      102527513,
+      85922583,
+      1159396333,
+      85633793,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594901159,
-    "wof:lastmodified": 1582752071,
+    "wof:lastmodified": 1717013295,
     "wof:name": "ASA388 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

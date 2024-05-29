@@ -2,6 +2,10 @@
   "id": 1594973789,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-01",
+    "date:cessation_upper": "2011-12-31",
+    "date:inception_lower": "2011-12-29",
+    "date:inception_upper": "2011-12-29",
     "edtf:cessation": "2011-12-29~",
     "edtf:inception": "2011-12-29T16:45:20",
     "flysfo:airline": "AF",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111229-D-AFR-4031",
     "sfomuseum:flight_number": [
-      "AF4031", 
+      "AF4031",
       "AFR4031"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159396333, 
-      102191575, 
-      102527513, 
-      85633793, 
-      102087579, 
-      85688637, 
-      1594973789
+      85922583,
+      1159396333,
+      102191575,
+      102527513,
+      85633793,
+      102087579,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582753294,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594973789,
-    "wof:lastmodified": 1582753294,
+    "wof:lastmodified": 1717013297,
     "wof:name": "AFR4031 (SFO-CDG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    2.542809, 
+    -122.370943,
+    37.61799,
+    2.542809,
     49.007854
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[2.542809,49.007854]],"type":"MultiPoint"}

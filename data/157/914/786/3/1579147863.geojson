@@ -2,6 +2,10 @@
   "id": 1579147863,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-01",
+    "date:cessation_upper": "2011-10-31",
+    "date:inception_lower": "2011-10-21",
+    "date:inception_upper": "2011-10-21",
     "edtf:cessation": "2011-10-21~",
     "edtf:inception": "2011-10-21T12:29:16",
     "flysfo:airline": "CO",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111021-D-COA-43",
     "sfomuseum:flight_number": [
-      "CO43", 
+      "CO43",
       "COA43"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85922583, 
-      1159396333, 
-      85688637, 
-      85633793, 
-      102087579, 
-      1579147863
+      102527513,
+      102191575,
+      85922583,
+      1159396333,
+      85688637,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582751684,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579147863,
-    "wof:lastmodified": 1582751684,
+    "wof:lastmodified": 1717013343,
     "wof:name": "COA43 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

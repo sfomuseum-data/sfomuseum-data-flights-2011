@@ -2,6 +2,10 @@
   "id": 1578794029,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-14",
+    "date:cessation_upper": "2011-02-14",
+    "date:inception_lower": "2011-02-01",
+    "date:inception_upper": "2011-02-28",
     "edtf:cessation": "2011-02-14T18:47:50",
     "edtf:inception": "2011-02-14~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525635,
     "sfomuseum:flight_id": "20110214-A-DAL-143",
     "sfomuseum:flight_number": [
-      "DL143", 
+      "DL143",
       "DAL143"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1578794029, 
-      1159396337, 
-      85633793, 
-      85688637, 
-      102527513, 
+      102191575,
+      102087579,
+      1159396337,
+      85633793,
+      85688637,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578794029,
-    "wof:lastmodified": 1582746989,
+    "wof:lastmodified": 1717013309,
     "wof:name": "DAL143 (DTW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-83.351709,42.21886],[-122.370943,37.61799]],"type":"MultiPoint"}

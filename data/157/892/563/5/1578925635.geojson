@@ -2,6 +2,10 @@
   "id": 1578925635,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-05-24",
+    "date:cessation_upper": "2011-05-24",
+    "date:inception_lower": "2011-05-01",
+    "date:inception_upper": "2011-05-31",
     "edtf:cessation": "2011-05-24T17:34:23",
     "edtf:inception": "2011-05-24~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20110524-A-UAL-736",
     "sfomuseum:flight_number": [
-      "UA736", 
+      "UA736",
       "UAL736"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1578925635, 
-      1159396333, 
-      102527513, 
-      85922583, 
-      85688637, 
+      102191575,
+      85633793,
+      1159396333,
+      102527513,
+      85922583,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578925635,
-    "wof:lastmodified": 1582748755,
+    "wof:lastmodified": 1717013322,
     "wof:name": "UAL736 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578787451,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-09",
+    "date:cessation_upper": "2011-02-09",
+    "date:inception_lower": "2011-02-01",
+    "date:inception_upper": "2011-02-28",
     "edtf:cessation": "2011-02-09T14:28:41",
     "edtf:inception": "2011-02-09~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528541,
     "sfomuseum:flight_id": "20110209-A-AAL-1441",
     "sfomuseum:flight_number": [
-      "AA1441", 
+      "AA1441",
       "AAL1441"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      102191575, 
-      85922583, 
-      85633793, 
-      85688637, 
-      1159396337, 
-      1578787451
+      102087579,
+      102527513,
+      102191575,
+      85922583,
+      85633793,
+      85688637,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582746925,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578787451,
-    "wof:lastmodified": 1582746925,
+    "wof:lastmodified": 1717013310,
     "wof:name": "AAL1441 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}

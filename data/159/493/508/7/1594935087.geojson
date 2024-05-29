@@ -2,6 +2,10 @@
   "id": 1594935087,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-02",
+    "date:cessation_upper": "2011-12-02",
+    "date:inception_lower": "2011-12-01",
+    "date:inception_upper": "2011-12-31",
     "edtf:cessation": "2011-12-02T07:04:22",
     "edtf:inception": "2011-12-02~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20111202-A-UAL-414",
     "sfomuseum:flight_number": [
-      "UA414", 
+      "UA414",
       "UAL414"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1594935087, 
-      1159396333, 
+      85633793,
+      85922583,
+      102527513,
+      102191575,
+      102087579,
+      1159396333,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594935087,
-    "wof:lastmodified": 1582752829,
+    "wof:lastmodified": 1717013298,
     "wof:name": "UAL414 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

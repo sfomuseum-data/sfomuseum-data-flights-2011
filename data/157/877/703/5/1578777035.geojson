@@ -2,6 +2,10 @@
   "id": 1578777035,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-01",
+    "date:cessation_upper": "2011-02-28",
+    "date:inception_lower": "2011-02-01",
+    "date:inception_upper": "2011-02-01",
     "edtf:cessation": "2011-02-01~",
     "edtf:inception": "2011-02-01T04:44:12",
     "flysfo:airline": "",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110201-D-ABX-1920",
     "sfomuseum:flight_number": [
-      "1920", 
+      "1920",
       "ABX1920"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      1159396337, 
-      102087579, 
-      85688637, 
-      102527513, 
-      1578777035
+      102191575,
+      85633793,
+      85922583,
+      1159396337,
+      102087579,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582746771,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578777035,
-    "wof:lastmodified": 1582746771,
+    "wof:lastmodified": 1717013309,
     "wof:name": "ABX1920 (SFO-BFI)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.301589, 
+    -122.370943,
+    37.61799,
+    -122.301589,
     47.536582
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.301589,47.536582]],"type":"MultiPoint"}

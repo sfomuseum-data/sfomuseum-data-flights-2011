@@ -2,6 +2,10 @@
   "id": 1578798829,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-01",
+    "date:cessation_upper": "2011-02-28",
+    "date:inception_lower": "2011-02-18",
+    "date:inception_upper": "2011-02-18",
     "edtf:cessation": "2011-02-18~",
     "edtf:inception": "2011-02-18T13:18:38",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110218-D-COA-254",
     "sfomuseum:flight_number": [
-      "CO254", 
+      "CO254",
       "COA254"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1578798829, 
-      1159396337, 
-      85633793, 
+      102191575,
+      85688637,
+      102527513,
+      102087579,
+      1159396337,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578798829,
-    "wof:lastmodified": 1582747037,
+    "wof:lastmodified": 1717013313,
     "wof:name": "COA254 (SFO-CLE)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -81.835629, 
+    -122.370943,
+    37.61799,
+    -81.835629,
     41.406844
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-81.835629,41.406844]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578942127,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-06-01",
+    "date:cessation_upper": "2011-06-30",
+    "date:inception_lower": "2011-06-05",
+    "date:inception_upper": "2011-06-05",
     "edtf:cessation": "2011-06-05~",
     "edtf:inception": "2011-06-05T12:26:32",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110605-D-UAL-9941",
     "sfomuseum:flight_number": [
-      "UA9941", 
+      "UA9941",
       "UAL9941"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1578942127, 
-      85922583, 
-      102191575, 
-      1159396333, 
-      102527513, 
-      102087579, 
-      85633793, 
+      85922583,
+      102191575,
+      1159396333,
+      102527513,
+      102087579,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578942127,
-    "wof:lastmodified": 1582748957,
+    "wof:lastmodified": 1717013320,
     "wof:name": "UAL9941 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

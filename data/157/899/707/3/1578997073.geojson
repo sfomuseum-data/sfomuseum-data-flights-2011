@@ -2,6 +2,10 @@
   "id": 1578997073,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-11",
+    "date:cessation_upper": "2011-07-11",
+    "date:inception_lower": "2011-07-01",
+    "date:inception_upper": "2011-07-31",
     "edtf:cessation": "2011-07-11T23:44:58",
     "edtf:inception": "2011-07-11~",
     "flysfo:airline": "CO",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20110711-A-COA-1519",
     "sfomuseum:flight_number": [
-      "CO1519", 
+      "CO1519",
       "COA1519"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159396333, 
-      102087579, 
-      102191575, 
-      85922583, 
-      85688637, 
-      85633793, 
-      1578997073
+      102527513,
+      1159396333,
+      102087579,
+      102191575,
+      85922583,
+      85688637,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582749621,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578997073,
-    "wof:lastmodified": 1582749621,
+    "wof:lastmodified": 1717013328,
     "wof:name": "COA1519 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

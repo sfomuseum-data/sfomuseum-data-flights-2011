@@ -2,6 +2,10 @@
   "id": 1579009703,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-01",
+    "date:cessation_upper": "2011-07-31",
+    "date:inception_lower": "2011-07-20",
+    "date:inception_upper": "2011-07-20",
     "edtf:cessation": "2011-07-20~",
     "edtf:inception": "2011-07-20T11:06:40",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110720-D-UAL-281",
     "sfomuseum:flight_number": [
-      "UA281", 
+      "UA281",
       "UAL281"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1579009703, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1159396333, 
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      1159396333,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579009703,
-    "wof:lastmodified": 1582749784,
+    "wof:lastmodified": 1717013333,
     "wof:name": "UAL281 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1579042491,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-08-10",
+    "date:cessation_upper": "2011-08-10",
+    "date:inception_lower": "2011-08-01",
+    "date:inception_upper": "2011-08-31",
     "edtf:cessation": "2011-08-10T21:08:40",
     "edtf:inception": "2011-08-10~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20110810-A-UAL-318",
     "sfomuseum:flight_number": [
-      "UA318", 
+      "UA318",
       "UAL318"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      102087579, 
-      1579042491, 
-      102527513, 
-      85633793, 
-      85922583, 
+      85688637,
+      102191575,
+      102087579,
+      102527513,
+      85633793,
+      85922583,
       1159396333
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579042491,
-    "wof:lastmodified": 1582750192,
+    "wof:lastmodified": 1717013329,
     "wof:name": "UAL318 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

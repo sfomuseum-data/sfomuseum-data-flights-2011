@@ -2,6 +2,10 @@
   "id": 1579057481,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-08-20",
+    "date:cessation_upper": "2011-08-20",
+    "date:inception_lower": "2011-08-01",
+    "date:inception_upper": "2011-08-31",
     "edtf:cessation": "2011-08-20T19:40:39",
     "edtf:inception": "2011-08-20~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528541,
     "sfomuseum:flight_id": "20110820-A-AAL-463",
     "sfomuseum:flight_number": [
-      "AA463", 
+      "AA463",
       "AAL463"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      1159396333, 
-      102527513, 
-      102191575, 
-      85922583, 
-      1579057481
+      85633793,
+      102087579,
+      85688637,
+      1159396333,
+      102527513,
+      102191575,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582750394,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579057481,
-    "wof:lastmodified": 1582750394,
+    "wof:lastmodified": 1717013334,
     "wof:name": "AAL463 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}

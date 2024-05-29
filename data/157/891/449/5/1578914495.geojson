@@ -2,6 +2,10 @@
   "id": 1578914495,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-05-16",
+    "date:cessation_upper": "2011-05-16",
+    "date:inception_lower": "2011-05-01",
+    "date:inception_upper": "2011-05-31",
     "edtf:cessation": "2011-05-16T20:08:38",
     "edtf:inception": "2011-05-16~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20110516-A-SWA-2343",
     "sfomuseum:flight_number": [
-      "WN2343", 
+      "WN2343",
       "SWA2343"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1578914495, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1159396333, 
-      85922583, 
-      102527513, 
+      102191575,
+      102087579,
+      85688637,
+      1159396333,
+      85922583,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578914495,
-    "wof:lastmodified": 1582748630,
+    "wof:lastmodified": 1717013319,
     "wof:name": "SWA2343 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

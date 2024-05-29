@@ -2,6 +2,10 @@
   "id": 1578782125,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-01",
+    "date:cessation_upper": "2011-02-28",
+    "date:inception_lower": "2011-02-05",
+    "date:inception_upper": "2011-02-05",
     "edtf:cessation": "2011-02-05~",
     "edtf:inception": "2011-02-05T09:38:58",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110205-D-SWA-393",
     "sfomuseum:flight_number": [
-      "WN393", 
+      "WN393",
       "SWA393"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396337, 
-      102527513, 
-      85922583, 
-      85633793, 
-      102087579, 
-      102191575, 
-      1578782125
+      85688637,
+      1159396337,
+      102527513,
+      85922583,
+      85633793,
+      102087579,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582746847,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578782125,
-    "wof:lastmodified": 1582746847,
+    "wof:lastmodified": 1717013305,
     "wof:name": "SWA393 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1594888017,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-29",
+    "date:cessation_upper": "2011-10-29",
+    "date:inception_lower": "2011-10-01",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-29T11:55:26",
     "edtf:inception": "2011-10-29~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20111029-A-UAL-846",
     "sfomuseum:flight_number": [
-      "UA846", 
+      "UA846",
       "UAL846"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      1159396333, 
-      85922583, 
-      85633793, 
-      102087579, 
-      1594888017
+      102527513,
+      85688637,
+      102191575,
+      1159396333,
+      85922583,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582751872,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594888017,
-    "wof:lastmodified": 1582751872,
+    "wof:lastmodified": 1717013340,
     "wof:name": "UAL846 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}

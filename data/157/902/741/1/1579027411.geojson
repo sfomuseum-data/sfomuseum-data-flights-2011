@@ -2,6 +2,10 @@
   "id": 1579027411,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-08-01",
+    "date:cessation_upper": "2011-08-01",
+    "date:inception_lower": "2011-08-01",
+    "date:inception_upper": "2011-08-31",
     "edtf:cessation": "2011-08-01T01:56:03",
     "edtf:inception": "2011-08-01~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534155,
     "sfomuseum:flight_id": "20110801-A-COA-1991",
     "sfomuseum:flight_number": [
-      "CO1991", 
+      "CO1991",
       "COA1991"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      85633793, 
-      102191575, 
-      1579027411, 
-      85922583, 
-      1159396333, 
+      102527513,
+      85688637,
+      85633793,
+      102191575,
+      85922583,
+      1159396333,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579027411,
-    "wof:lastmodified": 1582750002,
+    "wof:lastmodified": 1717013332,
     "wof:name": "COA1991 (IND-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -86.278675, 
+    -122.370943,
+    37.61799,
+    -86.278675,
     39.730262
   ],
   "geometry": {"coordinates":[[-86.278675,39.730262],[-122.370943,37.61799]],"type":"MultiPoint"}

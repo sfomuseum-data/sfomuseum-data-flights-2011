@@ -2,6 +2,10 @@
   "id": 1594888909,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-01",
+    "date:cessation_upper": "2011-10-31",
+    "date:inception_lower": "2011-10-30",
+    "date:inception_upper": "2011-10-30",
     "edtf:cessation": "2011-10-30~",
     "edtf:inception": "2011-10-30T08:53:50",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111030-D-DAL-1254",
     "sfomuseum:flight_number": [
-      "DL1254", 
+      "DL1254",
       "DAL1254"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      1159396333, 
-      85688637, 
-      102087579, 
-      1594888909, 
-      102527513, 
+      85922583,
+      85633793,
+      1159396333,
+      85688637,
+      102087579,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594888909,
-    "wof:lastmodified": 1582751886,
+    "wof:lastmodified": 1717013340,
     "wof:name": "DAL1254 (SFO-DTW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-83.351709,42.21886]],"type":"MultiPoint"}

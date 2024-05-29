@@ -2,6 +2,10 @@
   "id": 1594927465,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-26",
+    "date:cessation_upper": "2011-11-26",
+    "date:inception_lower": "2011-11-01",
+    "date:inception_upper": "2011-11-30",
     "edtf:cessation": "2011-11-26T19:19:20",
     "edtf:inception": "2011-11-26~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20111126-A-SWA-3412",
     "sfomuseum:flight_number": [
-      "WN3412", 
+      "WN3412",
       "SWA3412"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      102087579, 
-      1159396333, 
-      102191575, 
-      1594927465, 
-      85922583, 
+      85688637,
+      85633793,
+      102087579,
+      1159396333,
+      102191575,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594927465,
-    "wof:lastmodified": 1582752634,
+    "wof:lastmodified": 1717013299,
     "wof:name": "SWA3412 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

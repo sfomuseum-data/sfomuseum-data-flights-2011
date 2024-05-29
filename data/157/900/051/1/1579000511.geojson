@@ -2,6 +2,10 @@
   "id": 1579000511,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-01",
+    "date:cessation_upper": "2011-07-31",
+    "date:inception_lower": "2011-07-14",
+    "date:inception_upper": "2011-07-14",
     "edtf:cessation": "2011-07-14~",
     "edtf:inception": "2011-07-14T08:41:31",
     "flysfo:airline": "CI",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110714-D-CAL-5157",
     "sfomuseum:flight_number": [
-      "CI5157", 
+      "CI5157",
       "CAL5157"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1159396333, 
-      102191575, 
-      1579000511, 
+      85633793,
+      85688637,
+      102527513,
+      102087579,
+      1159396333,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579000511,
-    "wof:lastmodified": 1582749666,
+    "wof:lastmodified": 1717013324,
     "wof:name": "CAL5157 (SFO-TPE)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.078566, 
-    121.233152, 
+    -122.370943,
+    25.078566,
+    121.233152,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[121.233152,25.078566]],"type":"MultiPoint"}

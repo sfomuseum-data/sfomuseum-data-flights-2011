@@ -2,6 +2,10 @@
   "id": 1578760635,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-01-18",
+    "date:cessation_upper": "2011-01-18",
+    "date:inception_lower": "2011-01-01",
+    "date:inception_upper": "2011-01-31",
     "edtf:cessation": "2011-01-18T17:15:28",
     "edtf:inception": "2011-01-18~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20110118-A-DAL-2731",
     "sfomuseum:flight_number": [
-      "DL2731", 
+      "DL2731",
       "DAL2731"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      102191575, 
-      85688637, 
-      85633793, 
-      85922583, 
-      1159396337, 
-      1578760635
+      102087579,
+      102527513,
+      102191575,
+      85688637,
+      85633793,
+      85922583,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582746477,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578760635,
-    "wof:lastmodified": 1582746477,
+    "wof:lastmodified": 1717013303,
     "wof:name": "DAL2731 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

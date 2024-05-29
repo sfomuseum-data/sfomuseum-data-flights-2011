@@ -2,6 +2,10 @@
   "id": 1578889817,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-04-28",
+    "date:cessation_upper": "2011-04-28",
+    "date:inception_lower": "2011-04-01",
+    "date:inception_upper": "2011-04-30",
     "edtf:cessation": "2011-04-28T23:22:25",
     "edtf:inception": "2011-04-28~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534097,
     "sfomuseum:flight_id": "20110428-A-COA-770",
     "sfomuseum:flight_number": [
-      "CO770", 
+      "CO770",
       "COA770"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      1159396333, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1578889817, 
+      102527513,
+      85922583,
+      1159396333,
+      102191575,
+      102087579,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578889817,
-    "wof:lastmodified": 1582748357,
+    "wof:lastmodified": 1717013320,
     "wof:name": "COA770 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-95.338444,29.977186],[-122.370943,37.61799]],"type":"MultiPoint"}

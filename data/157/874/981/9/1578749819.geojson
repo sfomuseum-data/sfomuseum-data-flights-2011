@@ -2,6 +2,10 @@
   "id": 1578749819,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-01-09",
+    "date:cessation_upper": "2011-01-09",
+    "date:inception_lower": "2011-01-01",
+    "date:inception_upper": "2011-01-31",
     "edtf:cessation": "2011-01-09T22:58:33",
     "edtf:inception": "2011-01-09~",
     "flysfo:airline": "RD",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527103,
     "sfomuseum:flight_id": "20110109-A-RYN-7573",
     "sfomuseum:flight_number": [
-      "RD7573", 
+      "RD7573",
       "RYN7573"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1578749819, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      102527513, 
+      85922583,
+      85688637,
+      1159396337,
+      102191575,
+      102087579,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578749819,
-    "wof:lastmodified": 1582746303,
+    "wof:lastmodified": 1717013310,
     "wof:name": "RYN7573 (WRI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.592671, 
+    -122.370943,
+    37.61799,
+    -74.592671,
     40.022862
   ],
   "geometry": {"coordinates":[[-74.592671,40.022862],[-122.370943,37.61799]],"type":"MultiPoint"}

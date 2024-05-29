@@ -2,6 +2,10 @@
   "id": 1562357731,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-04-09",
+    "date:cessation_upper": "2011-04-09",
+    "date:inception_lower": "2011-04-01",
+    "date:inception_upper": "2011-04-30",
     "edtf:cessation": "2011-04-09T19:42:52",
     "edtf:inception": "2011-04-09~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20110409-A-DAL-748",
     "sfomuseum:flight_number": [
-      "DL748", 
+      "DL748",
       "DAL748"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159396337, 
-      102087579, 
-      1562357731, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      1159396337,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562357731,
-    "wof:lastmodified": 1582748058,
+    "wof:lastmodified": 1717013305,
     "wof:name": "DAL748 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578847009,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-03-27",
+    "date:cessation_upper": "2011-03-27",
+    "date:inception_lower": "2011-03-01",
+    "date:inception_upper": "2011-03-31",
     "edtf:cessation": "2011-03-27T22:53:45",
     "edtf:inception": "2011-03-27~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20110327-A-DAL-1635",
     "sfomuseum:flight_number": [
-      "DL1635", 
+      "DL1635",
       "DAL1635"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      1578847009, 
-      85633793, 
-      1159396337, 
-      85688637, 
-      102191575, 
+      102527513,
+      102087579,
+      85633793,
+      1159396337,
+      85688637,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578847009,
-    "wof:lastmodified": 1582747769,
+    "wof:lastmodified": 1717013316,
     "wof:name": "DAL1635 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

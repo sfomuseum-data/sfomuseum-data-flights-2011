@@ -2,6 +2,10 @@
   "id": 1578995155,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-01",
+    "date:cessation_upper": "2011-07-31",
+    "date:inception_lower": "2011-07-10",
+    "date:inception_upper": "2011-07-10",
     "edtf:cessation": "2011-07-10~",
     "edtf:inception": "2011-07-10T17:04:23",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110710-D-UAL-999",
     "sfomuseum:flight_number": [
-      "UA999", 
+      "UA999",
       "UAL999"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85688637, 
-      85633793, 
-      1578995155, 
-      85922583, 
-      102527513, 
+      102191575,
+      102087579,
+      85688637,
+      85633793,
+      85922583,
+      102527513,
       1159396333
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578995155,
-    "wof:lastmodified": 1582749598,
+    "wof:lastmodified": 1717013326,
     "wof:name": "UAL999 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

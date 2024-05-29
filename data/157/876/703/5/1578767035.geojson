@@ -2,6 +2,10 @@
   "id": 1578767035,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-01-23",
+    "date:cessation_upper": "2011-01-23",
+    "date:inception_lower": "2011-01-01",
+    "date:inception_upper": "2011-01-31",
     "edtf:cessation": "2011-01-23T21:11:54",
     "edtf:inception": "2011-01-23~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525635,
     "sfomuseum:flight_id": "20110123-A-DAL-2645",
     "sfomuseum:flight_number": [
-      "DL2645", 
+      "DL2645",
       "DAL2645"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      102087579, 
-      1159396337, 
-      85688637, 
-      102527513, 
-      1578767035, 
+      85633793,
+      102191575,
+      102087579,
+      1159396337,
+      85688637,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578767035,
-    "wof:lastmodified": 1582746603,
+    "wof:lastmodified": 1717013309,
     "wof:name": "DAL2645 (DTW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-83.351709,42.21886],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1594912019,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-01",
+    "date:cessation_upper": "2011-11-30",
+    "date:inception_lower": "2011-11-15",
+    "date:inception_upper": "2011-11-15",
     "edtf:cessation": "2011-11-15~",
     "edtf:inception": "2011-11-15T14:46:31",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111115-D-VRD-090",
     "sfomuseum:flight_number": [
-      "VX090", 
+      "VX090",
       "VRD090"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396333, 
-      85633793, 
-      102527513, 
-      102087579, 
-      1594912019, 
-      85922583, 
+      85688637,
+      1159396333,
+      85633793,
+      102527513,
+      102087579,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594912019,
-    "wof:lastmodified": 1582752276,
+    "wof:lastmodified": 1717013296,
     "wof:name": "VRD090 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

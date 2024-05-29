@@ -2,6 +2,10 @@
   "id": 1562284351,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-23",
+    "date:cessation_upper": "2011-10-23",
+    "date:inception_lower": "2011-10-01",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-23T19:19:24",
     "edtf:inception": "2011-10-23~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20111023-A-UAL-907",
     "sfomuseum:flight_number": [
-      "UA907", 
+      "UA907",
       "UAL907"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1562284351, 
-      85633793, 
-      85922583, 
+      1159396333,
+      102527513,
+      102191575,
+      102087579,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562284351,
-    "wof:lastmodified": 1582751738,
+    "wof:lastmodified": 1717013298,
     "wof:name": "UAL907 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

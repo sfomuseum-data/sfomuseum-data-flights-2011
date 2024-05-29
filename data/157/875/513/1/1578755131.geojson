@@ -2,6 +2,10 @@
   "id": 1578755131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-01-01",
+    "date:cessation_upper": "2011-01-31",
+    "date:inception_lower": "2011-01-14",
+    "date:inception_upper": "2011-01-14",
     "edtf:cessation": "2011-01-14~",
     "edtf:inception": "2011-01-14T09:45:40",
     "flysfo:airline": "F9",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110114-D-FFT-668",
     "sfomuseum:flight_number": [
-      "F9668", 
+      "F9668",
       "FFT668"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102087579, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1578755131
+      1159396337,
+      102087579,
+      102527513,
+      85922583,
+      85688637,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582746392,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578755131,
-    "wof:lastmodified": 1582746392,
+    "wof:lastmodified": 1717013306,
     "wof:name": "FFT668 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

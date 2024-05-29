@@ -2,6 +2,10 @@
   "id": 1579044363,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-08-12",
+    "date:cessation_upper": "2011-08-12",
+    "date:inception_lower": "2011-08-01",
+    "date:inception_upper": "2011-08-31",
     "edtf:cessation": "2011-08-12T06:50:54",
     "edtf:inception": "2011-08-12~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102525535,
     "sfomuseum:flight_id": "20110812-A-UAL-283",
     "sfomuseum:flight_number": [
-      "UA283", 
+      "UA283",
       "UAL283"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1159396333, 
-      102191575, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1579044363
+      102087579,
+      85922583,
+      1159396333,
+      102191575,
+      85688637,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582750215,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579044363,
-    "wof:lastmodified": 1582750215,
+    "wof:lastmodified": 1717013331,
     "wof:name": "UAL283 (RNO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -119.772167, 
+    -122.370943,
+    37.61799,
+    -119.772167,
     39.505219
   ],
   "geometry": {"coordinates":[[-119.772167,39.505219],[-122.370943,37.61799]],"type":"MultiPoint"}

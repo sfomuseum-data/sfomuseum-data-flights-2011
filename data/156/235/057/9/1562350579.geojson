@@ -2,6 +2,10 @@
   "id": 1562350579,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-13",
+    "date:cessation_upper": "2011-02-13",
+    "date:inception_lower": "2011-02-01",
+    "date:inception_upper": "2011-02-28",
     "edtf:cessation": "2011-02-13T15:43:57",
     "edtf:inception": "2011-02-13~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102556703,
     "sfomuseum:flight_id": "20110213-A-UAL-931",
     "sfomuseum:flight_number": [
-      "UA931", 
+      "UA931",
       "UAL931"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102191575, 
-      1159396337, 
-      102527513, 
-      1562350579
+      102087579,
+      85922583,
+      85688637,
+      85633793,
+      102191575,
+      1159396337,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582746976,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562350579,
-    "wof:lastmodified": 1582746976,
+    "wof:lastmodified": 1717013299,
     "wof:name": "UAL931 (LHR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -0.450443, 
+    -122.370943,
+    37.61799,
+    -0.450443,
     51.470087
   ],
   "geometry": {"coordinates":[[-0.450443,51.470087],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578981269,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-01",
+    "date:cessation_upper": "2011-07-01",
+    "date:inception_lower": "2011-07-01",
+    "date:inception_upper": "2011-07-31",
     "edtf:cessation": "2011-07-01T10:57:58",
     "edtf:inception": "2011-07-01~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20110701-A-UAL-409",
     "sfomuseum:flight_number": [
-      "UA409", 
+      "UA409",
       "UAL409"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1159396333, 
-      85922583, 
-      85688637, 
-      1578981269
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1159396333,
+      85922583,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582749426,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578981269,
-    "wof:lastmodified": 1582749426,
+    "wof:lastmodified": 1717013321,
     "wof:name": "UAL409 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

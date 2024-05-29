@@ -2,6 +2,10 @@
   "id": 1594920949,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-21",
+    "date:cessation_upper": "2011-11-21",
+    "date:inception_lower": "2011-11-01",
+    "date:inception_upper": "2011-11-30",
     "edtf:cessation": "2011-11-21T20:43:37",
     "edtf:inception": "2011-11-21~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530841,
     "sfomuseum:flight_id": "20111121-A-JBU-277",
     "sfomuseum:flight_number": [
-      "B6277", 
+      "B6277",
       "JBU277"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1594920949, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1159396333, 
-      85922583, 
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      1159396333,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594920949,
-    "wof:lastmodified": 1582752480,
+    "wof:lastmodified": 1717013294,
     "wof:name": "JBU277 (FLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    26.07486, 
-    -80.138518, 
+    -122.370943,
+    26.07486,
+    -80.138518,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578958795,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-06-01",
+    "date:cessation_upper": "2011-06-30",
+    "date:inception_lower": "2011-06-16",
+    "date:inception_upper": "2011-06-16",
     "edtf:cessation": "2011-06-16~",
     "edtf:inception": "2011-06-16T14:59:49",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110616-D-COA-1931",
     "sfomuseum:flight_number": [
-      "CO1931", 
+      "CO1931",
       "COA1931"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1578958795, 
-      85688637, 
-      1159396333, 
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85688637,
+      1159396333,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578958795,
-    "wof:lastmodified": 1582749160,
+    "wof:lastmodified": 1717013326,
     "wof:name": "COA1931 (SFO-OAK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.212464, 
+    -122.370943,
+    37.61799,
+    -122.212464,
     37.72131
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.212464,37.72131]],"type":"MultiPoint"}

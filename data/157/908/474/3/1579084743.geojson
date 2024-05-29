@@ -2,6 +2,10 @@
   "id": 1579084743,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-09-01",
+    "date:cessation_upper": "2011-09-30",
+    "date:inception_lower": "2011-09-08",
+    "date:inception_upper": "2011-09-08",
     "edtf:cessation": "2011-09-08~",
     "edtf:inception": "2011-09-08T11:08:25",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110908-D-JBU-644",
     "sfomuseum:flight_number": [
-      "B6644", 
+      "B6644",
       "JBU644"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1579084743, 
-      102527513, 
-      85633793, 
-      102087579, 
-      85922583, 
-      102191575, 
-      85688637, 
+      102527513,
+      85633793,
+      102087579,
+      85922583,
+      102191575,
+      85688637,
       1159396333
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579084743,
-    "wof:lastmodified": 1582750747,
+    "wof:lastmodified": 1717013333,
     "wof:name": "JBU644 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}

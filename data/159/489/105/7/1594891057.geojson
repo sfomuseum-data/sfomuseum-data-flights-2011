@@ -2,6 +2,10 @@
   "id": 1594891057,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-01",
+    "date:cessation_upper": "2011-10-31",
+    "date:inception_lower": "2011-10-31",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-31~",
     "edtf:inception": "2011-10-31T16:21:21",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111031-D-COA-1669",
     "sfomuseum:flight_number": [
-      "CO1669", 
+      "CO1669",
       "COA1669"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1594891057, 
-      102527513, 
-      85688637, 
-      102191575, 
-      102087579, 
-      85922583, 
+      85633793,
+      102527513,
+      85688637,
+      102191575,
+      102087579,
+      85922583,
       1159396333
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594891057,
-    "wof:lastmodified": 1582751920,
+    "wof:lastmodified": 1717013295,
     "wof:name": "COA1669 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

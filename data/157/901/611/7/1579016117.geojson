@@ -2,6 +2,10 @@
   "id": 1579016117,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-24",
+    "date:cessation_upper": "2011-07-24",
+    "date:inception_lower": "2011-07-01",
+    "date:inception_upper": "2011-07-31",
     "edtf:cessation": "2011-07-24T15:29:47",
     "edtf:inception": "2011-07-24~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20110724-A-SWA-9004",
     "sfomuseum:flight_number": [
-      "WN9004", 
+      "WN9004",
       "SWA9004"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      1159396333, 
-      85922583, 
-      102527513, 
-      85633793, 
-      102191575, 
-      1579016117
+      102087579,
+      85688637,
+      1159396333,
+      85922583,
+      102527513,
+      85633793,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582749866,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579016117,
-    "wof:lastmodified": 1582749866,
+    "wof:lastmodified": 1717013330,
     "wof:name": "SWA9004 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

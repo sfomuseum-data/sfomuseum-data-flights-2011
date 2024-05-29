@@ -2,6 +2,10 @@
   "id": 1578999921,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-01",
+    "date:cessation_upper": "2011-07-31",
+    "date:inception_lower": "2011-07-13",
+    "date:inception_upper": "2011-07-13",
     "edtf:cessation": "2011-07-13~",
     "edtf:inception": "2011-07-13T20:37:25",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110713-D-UAL-482",
     "sfomuseum:flight_number": [
-      "UA482", 
+      "UA482",
       "UAL482"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      1578999921, 
-      85688637, 
-      102087579, 
-      1159396333, 
+      102191575,
+      85633793,
+      85922583,
+      85688637,
+      102087579,
+      1159396333,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578999921,
-    "wof:lastmodified": 1582749658,
+    "wof:lastmodified": 1717013331,
     "wof:name": "UAL482 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

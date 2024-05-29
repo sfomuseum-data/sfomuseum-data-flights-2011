@@ -2,6 +2,10 @@
   "id": 1594907945,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-12",
+    "date:cessation_upper": "2011-11-12",
+    "date:inception_lower": "2011-11-01",
+    "date:inception_upper": "2011-11-30",
     "edtf:cessation": "2011-11-12T15:58:38",
     "edtf:inception": "2011-11-12~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527529,
     "sfomuseum:flight_id": "20111112-A-COA-1850",
     "sfomuseum:flight_number": [
-      "CO1850", 
+      "CO1850",
       "COA1850"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159396333, 
-      85633793, 
-      102087579, 
-      85688637, 
-      102191575, 
-      1594907945, 
+      102527513,
+      1159396333,
+      85633793,
+      102087579,
+      85688637,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594907945,
-    "wof:lastmodified": 1582752185,
+    "wof:lastmodified": 1717013299,
     "wof:name": "COA1850 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.363728, 
-    -121.928755, 
+    -122.370943,
+    37.363728,
+    -121.928755,
     37.61799
   ],
   "geometry": {"coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1579035653,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-08-06",
+    "date:cessation_upper": "2011-08-06",
+    "date:inception_lower": "2011-08-01",
+    "date:inception_upper": "2011-08-31",
     "edtf:cessation": "2011-08-06T11:27:30",
     "edtf:inception": "2011-08-06~",
     "flysfo:airline": "FL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530849,
     "sfomuseum:flight_id": "20110806-A-TRS-534A",
     "sfomuseum:flight_number": [
-      "FL534A", 
+      "FL534A",
       "TRS534A"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1579035653, 
-      1159396333, 
-      102191575, 
-      102087579, 
-      85922583, 
-      102527513, 
-      85688637, 
+      1159396333,
+      102191575,
+      102087579,
+      85922583,
+      102527513,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579035653,
-    "wof:lastmodified": 1582750098,
+    "wof:lastmodified": 1717013331,
     "wof:name": "TRS534A (MKE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.896339, 
+    -122.370943,
+    37.61799,
+    -87.896339,
     42.949572
   ],
   "geometry": {"coordinates":[[-87.896339,42.949572],[-122.370943,37.61799]],"type":"MultiPoint"}

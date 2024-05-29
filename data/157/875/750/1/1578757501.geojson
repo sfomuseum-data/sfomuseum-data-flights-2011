@@ -2,6 +2,10 @@
   "id": 1578757501,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-01-16",
+    "date:cessation_upper": "2011-01-16",
+    "date:inception_lower": "2011-01-01",
+    "date:inception_upper": "2011-01-31",
     "edtf:cessation": "2011-01-16T09:46:53",
     "edtf:inception": "2011-01-16~",
     "flysfo:airline": "KE",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102556451,
     "sfomuseum:flight_id": "20110116-A-KAL-023",
     "sfomuseum:flight_number": [
-      "KE023", 
+      "KE023",
       "KAL023"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      102191575, 
-      85688637, 
-      102087579, 
-      1578757501, 
-      85922583, 
+      85633793,
+      102527513,
+      102191575,
+      85688637,
+      102087579,
+      85922583,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578757501,
-    "wof:lastmodified": 1582746430,
+    "wof:lastmodified": 1717013308,
     "wof:name": "KAL023 (ICN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.453966, 
-    126.661632, 
+    -122.370943,
+    37.453966,
+    126.661632,
     37.61799
   ],
   "geometry": {"coordinates":[[126.661632,37.453966],[-122.370943,37.61799]],"type":"MultiPoint"}

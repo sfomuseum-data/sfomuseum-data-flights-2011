@@ -2,6 +2,10 @@
   "id": 1594888711,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-29",
+    "date:cessation_upper": "2011-10-29",
+    "date:inception_lower": "2011-10-01",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-29T23:42:38",
     "edtf:inception": "2011-10-29~",
     "flysfo:airline": "G4",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526755,
     "sfomuseum:flight_id": "20111029-A-AAY-4307",
     "sfomuseum:flight_number": [
-      "G44307", 
+      "G44307",
       "AAY4307"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85688637, 
-      1159396333, 
-      102527513, 
-      85633793, 
-      1594888711, 
+      102191575,
+      102087579,
+      85688637,
+      1159396333,
+      102527513,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594888711,
-    "wof:lastmodified": 1582751884,
+    "wof:lastmodified": 1717013340,
     "wof:name": "AAY4307 (SHV-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.457785, 
-    -93.82842, 
+    -122.370943,
+    32.457785,
+    -93.82842,
     37.61799
   ],
   "geometry": {"coordinates":[[-93.82842,32.457785],[-122.370943,37.61799]],"type":"MultiPoint"}

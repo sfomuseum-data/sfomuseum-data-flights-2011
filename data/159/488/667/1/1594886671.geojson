@@ -2,6 +2,10 @@
   "id": 1594886671,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-01",
+    "date:cessation_upper": "2011-10-31",
+    "date:inception_lower": "2011-10-28",
+    "date:inception_upper": "2011-10-28",
     "edtf:cessation": "2011-10-28~",
     "edtf:inception": "2011-10-28T12:46:38",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111028-D-SWA-1232",
     "sfomuseum:flight_number": [
-      "WN1232", 
+      "WN1232",
       "SWA1232"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      1594886671, 
-      85688637, 
-      102527513, 
-      102087579, 
-      85922583, 
+      85633793,
+      102191575,
+      85688637,
+      102527513,
+      102087579,
+      85922583,
       1159396333
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594886671,
-    "wof:lastmodified": 1582751850,
+    "wof:lastmodified": 1717013341,
     "wof:name": "SWA1232 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

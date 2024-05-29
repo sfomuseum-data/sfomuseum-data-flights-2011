@@ -2,6 +2,10 @@
   "id": 1579101099,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-09-19",
+    "date:cessation_upper": "2011-09-19",
+    "date:inception_lower": "2011-09-01",
+    "date:inception_upper": "2011-09-30",
     "edtf:cessation": "2011-09-19T15:08:38",
     "edtf:inception": "2011-09-19~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20110919-A-SWA-1588",
     "sfomuseum:flight_number": [
-      "WN1588", 
+      "WN1588",
       "SWA1588"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85922583, 
-      1159396333, 
-      85633793, 
-      85688637, 
-      102527513, 
-      1579101099
+      102191575,
+      102087579,
+      85922583,
+      1159396333,
+      85633793,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582750966,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579101099,
-    "wof:lastmodified": 1582750966,
+    "wof:lastmodified": 1717013334,
     "wof:name": "SWA1588 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

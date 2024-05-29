@@ -2,6 +2,10 @@
   "id": 1578875873,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-04-18",
+    "date:cessation_upper": "2011-04-18",
+    "date:inception_lower": "2011-04-01",
+    "date:inception_upper": "2011-04-30",
     "edtf:cessation": "2011-04-18T17:16:16",
     "edtf:inception": "2011-04-18~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20110418-A-SWA-1229",
     "sfomuseum:flight_number": [
-      "WN1229", 
+      "WN1229",
       "SWA1229"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1578875873, 
-      85922583, 
-      85688637, 
-      1159396333, 
-      85633793, 
-      102087579, 
-      102527513, 
+      85922583,
+      85688637,
+      1159396333,
+      85633793,
+      102087579,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578875873,
-    "wof:lastmodified": 1582748191,
+    "wof:lastmodified": 1717013316,
     "wof:name": "SWA1229 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

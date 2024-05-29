@@ -2,6 +2,10 @@
   "id": 1578790173,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-01",
+    "date:cessation_upper": "2011-02-28",
+    "date:inception_lower": "2011-02-11",
+    "date:inception_upper": "2011-02-11",
     "edtf:cessation": "2011-02-11~",
     "edtf:inception": "2011-02-11T15:52:23",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110211-D-UAL-37",
     "sfomuseum:flight_number": [
-      "UA37", 
+      "UA37",
       "UAL37"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      1578790173, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      85633793, 
+      102527513,
+      85688637,
+      85922583,
+      1159396337,
+      102191575,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578790173,
-    "wof:lastmodified": 1582746951,
+    "wof:lastmodified": 1717013305,
     "wof:name": "UAL37 (SFO-OGG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.437877, 
-    20.894952, 
-    -122.370943, 
+    -156.437877,
+    20.894952,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-156.437877,20.894952]],"type":"MultiPoint"}

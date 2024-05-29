@@ -2,6 +2,10 @@
   "id": 1579047787,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-08-01",
+    "date:cessation_upper": "2011-08-31",
+    "date:inception_lower": "2011-08-14",
+    "date:inception_upper": "2011-08-14",
     "edtf:cessation": "2011-08-14~",
     "edtf:inception": "2011-08-14T12:07:20",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110814-D-UAL-815",
     "sfomuseum:flight_number": [
-      "UA815", 
+      "UA815",
       "UAL815"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396333, 
-      1579047787, 
-      102087579, 
-      102527513, 
-      85633793, 
-      85922583, 
+      85688637,
+      1159396333,
+      102087579,
+      102527513,
+      85633793,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579047787,
-    "wof:lastmodified": 1582750262,
+    "wof:lastmodified": 1717013334,
     "wof:name": "UAL815 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

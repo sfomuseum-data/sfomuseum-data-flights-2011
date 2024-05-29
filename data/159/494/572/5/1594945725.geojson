@@ -2,6 +2,10 @@
   "id": 1594945725,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-01",
+    "date:cessation_upper": "2011-12-31",
+    "date:inception_lower": "2011-12-09",
+    "date:inception_upper": "2011-12-09",
     "edtf:cessation": "2011-12-09~",
     "edtf:inception": "2011-12-09T18:20:21",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20111209-D-SWA-645",
     "sfomuseum:flight_number": [
-      "WN645", 
+      "WN645",
       "SWA645"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159396333, 
-      102191575, 
-      1594945725
+      85688637,
+      102527513,
+      85633793,
+      85922583,
+      102087579,
+      1159396333,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582753001,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594945725,
-    "wof:lastmodified": 1582753001,
+    "wof:lastmodified": 1717013298,
     "wof:name": "SWA645 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

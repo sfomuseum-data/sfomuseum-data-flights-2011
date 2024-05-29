@@ -2,6 +2,10 @@
   "id": 1594928029,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-11-27",
+    "date:cessation_upper": "2011-11-27",
+    "date:inception_lower": "2011-11-01",
+    "date:inception_upper": "2011-11-30",
     "edtf:cessation": "2011-11-27T08:51:01",
     "edtf:inception": "2011-11-27~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20111127-A-UAL-567",
     "sfomuseum:flight_number": [
-      "UA567", 
+      "UA567",
       "UAL567"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1159396333, 
-      102087579, 
-      1594928029
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      1159396333,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582752648,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594928029,
-    "wof:lastmodified": 1582752648,
+    "wof:lastmodified": 1717013299,
     "wof:name": "UAL567 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}

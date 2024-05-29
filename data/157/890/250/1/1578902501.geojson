@@ -2,6 +2,10 @@
   "id": 1578902501,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-05-08",
+    "date:cessation_upper": "2011-05-08",
+    "date:inception_lower": "2011-05-01",
+    "date:inception_upper": "2011-05-31",
     "edtf:cessation": "2011-05-08T09:35:02",
     "edtf:inception": "2011-05-08~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532047,
     "sfomuseum:flight_id": "20110508-A-UAL-817",
     "sfomuseum:flight_number": [
-      "UA817", 
+      "UA817",
       "UAL817"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1578902501, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102527513, 
-      102087579, 
-      1159396333, 
+      85922583,
+      85688637,
+      85633793,
+      102527513,
+      102087579,
+      1159396333,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578902501,
-    "wof:lastmodified": 1582748498,
+    "wof:lastmodified": 1717013317,
     "wof:name": "UAL817 (BWI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -76.67107, 
+    -122.370943,
+    37.61799,
+    -76.67107,
     39.181319
   ],
   "geometry": {"coordinates":[[-76.67107,39.181319],[-122.370943,37.61799]],"type":"MultiPoint"}

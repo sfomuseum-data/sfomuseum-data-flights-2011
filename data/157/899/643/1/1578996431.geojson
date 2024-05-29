@@ -2,6 +2,10 @@
   "id": 1578996431,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-11",
+    "date:cessation_upper": "2011-07-11",
+    "date:inception_lower": "2011-07-01",
+    "date:inception_upper": "2011-07-31",
     "edtf:cessation": "2011-07-11T14:40:14",
     "edtf:inception": "2011-07-11~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20110711-A-COA-6702",
     "sfomuseum:flight_number": [
-      "CO6702", 
+      "CO6702",
       "COA6702"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1578996431, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1159396333, 
-      85633793, 
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      1159396333,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578996431,
-    "wof:lastmodified": 1582749613,
+    "wof:lastmodified": 1717013328,
     "wof:name": "COA6702 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

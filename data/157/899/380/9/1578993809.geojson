@@ -2,6 +2,10 @@
   "id": 1578993809,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-09",
+    "date:cessation_upper": "2011-07-09",
+    "date:inception_lower": "2011-07-01",
+    "date:inception_upper": "2011-07-31",
     "edtf:cessation": "2011-07-09T18:18:24",
     "edtf:inception": "2011-07-09~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536441,
     "sfomuseum:flight_id": "20110709-A-UAL-9929",
     "sfomuseum:flight_number": [
-      "UA9929", 
+      "UA9929",
       "UAL9929"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1578993809, 
-      85688637, 
-      1159396333, 
-      85633793, 
-      85922583, 
-      102191575, 
+      102087579,
+      85688637,
+      1159396333,
+      85633793,
+      85922583,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578993809,
-    "wof:lastmodified": 1582749581,
+    "wof:lastmodified": 1717013325,
     "wof:name": "UAL9929 (SJD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}

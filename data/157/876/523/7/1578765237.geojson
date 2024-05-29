@@ -2,6 +2,10 @@
   "id": 1578765237,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-01-22",
+    "date:cessation_upper": "2011-01-22",
+    "date:inception_lower": "2011-01-01",
+    "date:inception_upper": "2011-01-31",
     "edtf:cessation": "2011-01-22T11:14:08",
     "edtf:inception": "2011-01-22~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20110122-A-SWA-934",
     "sfomuseum:flight_number": [
-      "WN934", 
+      "WN934",
       "SWA934"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      85688637, 
-      102527513, 
-      1578765237
+      85633793,
+      85922583,
+      1159396337,
+      102191575,
+      102087579,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582746563,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578765237,
-    "wof:lastmodified": 1582746563,
+    "wof:lastmodified": 1717013307,
     "wof:name": "SWA934 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

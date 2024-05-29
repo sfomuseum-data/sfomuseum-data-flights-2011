@@ -2,6 +2,10 @@
   "id": 1578738997,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-01-01",
+    "date:cessation_upper": "2011-01-31",
+    "date:inception_lower": "2011-01-01",
+    "date:inception_upper": "2011-01-01",
     "edtf:cessation": "2011-01-01~",
     "edtf:inception": "2011-01-01T07:09:12",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110101-D-SWA-331",
     "sfomuseum:flight_number": [
-      "WN331", 
+      "WN331",
       "SWA331"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159396337, 
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1578738997
+      102527513,
+      1159396337,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582746134,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578738997,
-    "wof:lastmodified": 1582746134,
+    "wof:lastmodified": 1717013302,
     "wof:name": "SWA331 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

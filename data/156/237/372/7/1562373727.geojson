@@ -2,6 +2,10 @@
   "id": 1562373727,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-29",
+    "date:cessation_upper": "2011-07-29",
+    "date:inception_lower": "2011-07-01",
+    "date:inception_upper": "2011-07-31",
     "edtf:cessation": "2011-07-29T19:19:24",
     "edtf:inception": "2011-07-29~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20110729-A-VRD-913",
     "sfomuseum:flight_number": [
-      "VX913", 
+      "VX913",
       "VRD913"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      85688637, 
-      85633793, 
-      1562373727, 
-      102191575, 
-      1159396333, 
+      85922583,
+      102527513,
+      85688637,
+      85633793,
+      102191575,
+      1159396333,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562373727,
-    "wof:lastmodified": 1582749960,
+    "wof:lastmodified": 1717013303,
     "wof:name": "VRD913 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

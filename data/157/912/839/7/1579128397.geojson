@@ -2,6 +2,10 @@
   "id": 1579128397,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-10-08",
+    "date:cessation_upper": "2011-10-08",
+    "date:inception_lower": "2011-10-01",
+    "date:inception_upper": "2011-10-31",
     "edtf:cessation": "2011-10-08T07:17:40",
     "edtf:inception": "2011-10-08~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20111008-A-UAL-510",
     "sfomuseum:flight_number": [
-      "UA510", 
+      "UA510",
       "UAL510"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1579128397, 
-      102191575, 
-      102087579, 
-      85922583, 
-      1159396333, 
-      85688637, 
+      85633793,
+      102191575,
+      102087579,
+      85922583,
+      1159396333,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579128397,
-    "wof:lastmodified": 1582751371,
+    "wof:lastmodified": 1717013342,
     "wof:name": "UAL510 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

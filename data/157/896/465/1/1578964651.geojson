@@ -2,6 +2,10 @@
   "id": 1578964651,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-06-20",
+    "date:cessation_upper": "2011-06-20",
+    "date:inception_lower": "2011-06-01",
+    "date:inception_upper": "2011-06-30",
     "edtf:cessation": "2011-06-20T13:14:57",
     "edtf:inception": "2011-06-20~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20110620-A-UAL-263",
     "sfomuseum:flight_number": [
-      "UA263", 
+      "UA263",
       "UAL263"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      1578964651, 
-      1159396333, 
-      102527513, 
-      85633793, 
-      85688637, 
+      102087579,
+      102191575,
+      1159396333,
+      102527513,
+      85633793,
+      85688637,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578964651,
-    "wof:lastmodified": 1582749231,
+    "wof:lastmodified": 1717013323,
     "wof:name": "UAL263 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

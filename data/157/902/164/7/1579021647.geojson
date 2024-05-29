@@ -2,6 +2,10 @@
   "id": 1579021647,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-01",
+    "date:cessation_upper": "2011-07-31",
+    "date:inception_lower": "2011-07-28",
+    "date:inception_upper": "2011-07-28",
     "edtf:cessation": "2011-07-28~",
     "edtf:inception": "2011-07-28T09:15:59",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110728-D-UAL-715",
     "sfomuseum:flight_number": [
-      "UA715", 
+      "UA715",
       "UAL715"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1579021647, 
-      85688637, 
-      102191575, 
-      1159396333, 
-      85633793, 
-      85922583, 
+      102087579,
+      85688637,
+      102191575,
+      1159396333,
+      85633793,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1579021647,
-    "wof:lastmodified": 1582749929,
+    "wof:lastmodified": 1717013327,
     "wof:name": "UAL715 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}

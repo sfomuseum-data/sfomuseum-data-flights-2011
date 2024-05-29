@@ -2,6 +2,10 @@
   "id": 1562274003,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-07-01",
+    "date:cessation_upper": "2011-07-31",
+    "date:inception_lower": "2011-07-21",
+    "date:inception_upper": "2011-07-21",
     "edtf:cessation": "2011-07-21~",
     "edtf:inception": "2011-07-21T12:49:45",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20110721-D-UAL-302",
     "sfomuseum:flight_number": [
-      "UA302", 
+      "UA302",
       "UAL302"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85922583, 
-      102527513, 
-      102191575, 
-      1159396333, 
-      85633793, 
-      102087579, 
-      1562274003
+      85688637,
+      85922583,
+      102527513,
+      102191575,
+      1159396333,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582749806,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562274003,
-    "wof:lastmodified": 1582749806,
+    "wof:lastmodified": 1717013295,
     "wof:name": "UAL302 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1594940545,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-12-06",
+    "date:cessation_upper": "2011-12-06",
+    "date:inception_lower": "2011-12-01",
+    "date:inception_upper": "2011-12-31",
     "edtf:cessation": "2011-12-06T07:09:31",
     "edtf:inception": "2011-12-06~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20111206-A-SWA-2712",
     "sfomuseum:flight_number": [
-      "WN2712", 
+      "WN2712",
       "SWA2712"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      85922583, 
-      85633793, 
-      102087579, 
-      102527513, 
-      1594940545, 
-      85688637, 
+      1159396333,
+      85922583,
+      85633793,
+      102087579,
+      102527513,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1594940545,
-    "wof:lastmodified": 1582752939,
+    "wof:lastmodified": 1717013295,
     "wof:name": "SWA2712 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

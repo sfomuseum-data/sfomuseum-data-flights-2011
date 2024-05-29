@@ -2,6 +2,10 @@
   "id": 1578803189,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-02-21",
+    "date:cessation_upper": "2011-02-21",
+    "date:inception_lower": "2011-02-01",
+    "date:inception_upper": "2011-02-28",
     "edtf:cessation": "2011-02-21T21:13:52",
     "edtf:inception": "2011-02-21~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20110221-A-UAL-447",
     "sfomuseum:flight_number": [
-      "UA447", 
+      "UA447",
       "UAL447"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      102087579, 
-      1159396337, 
-      102191575, 
-      85922583, 
-      85688637, 
-      1578803189
+      102527513,
+      85633793,
+      102087579,
+      1159396337,
+      102191575,
+      85922583,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582747081,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578803189,
-    "wof:lastmodified": 1582747081,
+    "wof:lastmodified": 1717013310,
     "wof:name": "UAL447 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

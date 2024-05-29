@@ -2,6 +2,10 @@
   "id": 1578974893,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2011-06-27",
+    "date:cessation_upper": "2011-06-27",
+    "date:inception_lower": "2011-06-01",
+    "date:inception_upper": "2011-06-30",
     "edtf:cessation": "2011-06-27T09:08:08",
     "edtf:inception": "2011-06-27~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20110627-A-UAL-885T",
     "sfomuseum:flight_number": [
-      "UA885T", 
+      "UA885T",
       "UAL885T"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      85922583, 
-      102527513, 
-      85633793, 
-      85688637, 
-      102087579, 
-      102191575, 
-      1578974893
+      1159396333,
+      85922583,
+      102527513,
+      85633793,
+      85688637,
+      102087579,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582749352,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578974893,
-    "wof:lastmodified": 1582749352,
+    "wof:lastmodified": 1717013323,
     "wof:name": "UAL885T (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2011",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
